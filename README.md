@@ -11,7 +11,7 @@ Your feedback and contributions are always welcome!
     - [Mobile analytics](#Mobile-analytics)
     - [App store analytics](#App-store-analytics)
     - [Attribution tracking](#Attribution-tracking)
-    - [A/B testing](#A/B-testing)
+    - [Social media analytics](#Social-media-analytics)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
@@ -55,6 +55,8 @@ Your feedback and contributions are always welcome!
 
 ## Analytics layers
 
+* [Keen.io](http://adjust.com/) - custom-analytics API.
+* [Popcorn metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
 * [Segment.io](http://Segment.io) - helps you integrate multiple app analytics tool with one piece of code.
 
 ## Mobile analytics
@@ -73,6 +75,11 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
 * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
 * [Capptain](http://www.capptain.com/) - real-time analytics tool with segmentation and push.
+* [Amplitude](https://amplitude.com/) - real-time mobile analytics with all data provided in redshift.
+* [Appsee](http://www.appsee.com/) - mobile app analytics platform automatically tracks all users' interactions in your app
+* [Mixpanel](https://mixpanel.com/) - fully featured mobile analytics platform with segmentation and push.
+* [Localytics](http://www.localytics.com/) - fast and beautiful real-time mobile analytics platform with in-app and push.
+* [GameAnalytics](http://www.gameanalytics.com/) - leading game analytics platform.
 
 ## App store analytics
 
@@ -81,40 +88,29 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Distimo](http://www.distimo.com/) - free app store analytics (acquired by [Appannie](http://www.appannie.com/)).
 * [Priori Data](https://prioridata.com/) - track and benchmark the performance of apps on Apple- and Play store.
 * [Asking Point](http://www.askingpoint.com/mobile-app-rating-widget) - track your mobile app user ratings.
+* [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform.
 
 ## Attribution tracking
 
 * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
 * [Clickmeter](http://clickmeter.com/) - analytics tool that helps you track marketing campaigns.
-has offesr
+* [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform.
 
+## Social media analytics
 
-* [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
-* * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
-* [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
-* [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
-* [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
-v* [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
+Often there is no clear differentiation between social media management and analytics as most the tools provide analytics.
 
-apmplitude
-adjust
-keen.io
-kontagent
-Claritics – Intelligent Analytics
-Followapps - Mobile Engagement Platforms
-Applicasa – Mobile game management platform
-Appsee – Visual Mobile App Analytics
-Yozio – Campaign tracking for mobile apps
-apptrace
-aws analytics
-mixpanel
-Trademob - Mobile Marketing Analytics
-Swrve – In-app marketing platform
-Adxtracking – Analyze and optimize mobile app advertising
-AppsFlyer – Mobile app measurement and tracking
-MobileAppTracking  – Attribution analytics
-Telerik - mobile app analytics
-localytics
+* [Klout](https://klout.com/) - Social media analytics and planning platform.
+* [Falconsocial](http://www.falconsocial.com/) - communications platform built on social media with analytics.
+* [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance.
+* [Kred](http://kred.com/) - Klout-like social media analytics platform.
+* [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform.
+* [Topsy](http://topsy.com/) - Social analytics tool with search.
+* [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking.
+* [SocialBench](https://klout.com/) - Social media analytics platform.
+* [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
+* [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
+* [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
