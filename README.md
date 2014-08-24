@@ -1,6 +1,6 @@
 # Awesome Analytics
 
-A curated list of awesome analytics platforms, resources and other awesomeness. I also included some A/B testing platforms with analytics features. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
 
 Your feedback and contributions are always welcome!
 
