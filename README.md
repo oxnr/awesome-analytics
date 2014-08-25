@@ -12,6 +12,7 @@ Your feedback and contributions are always welcome!
     - [App store analytics](#App-store-analytics)
     - [Attribution tracking](#Attribution-tracking)
     - [Social media analytics](#Social-media-analytics)
+    - [Analytics dashboards](#Analytics-dashboards)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
@@ -111,6 +112,12 @@ Often there is no clear differentiation between social media management and anal
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
 * [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
+
+## Analytics dashboards
+
+* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
+* [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
+* [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
