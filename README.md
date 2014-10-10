@@ -1,6 +1,6 @@
 # Awesome Analytics
 
-A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata). This awesome collection is also available on [Analytics.ZEEF.com](https://analytics.zeef.com/onur.akpolat).
 
 Your feedback and contributions are always welcome!
 
