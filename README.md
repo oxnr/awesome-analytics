@@ -31,6 +31,7 @@ Your feedback and contributions are always welcome!
 * [Going Up](http://www.goingup.com/) - manage SEO analytics and web app analytics with one tool.
 * [Chartbeat](https://chartbeat.com/) - beautiful, real-time app analytics tool for web apps.
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool.
+* [Indicative](http://www.indicative.com/) - Web & mobile  analytics tool.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - open source web app analytics tool.
 * [Statcountr](http://statcounter.com/) - one of the ORIGINAL web analytics tools available.
 * [Snow Plow](http://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
