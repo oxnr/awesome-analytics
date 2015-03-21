@@ -65,8 +65,9 @@ Your feedback and contributions are always welcome!
 
 The tools listed here are not necessarily mobile analytics tools only. However they show a strong mobile focus.
 
-* [Upsight](http://www.upsight.com/) - mobile app analytics tool for developers.
 * [Appsflyer](http://www.appsflyer.com/) - all-in-one marketing tool with analytics.
+* [Google Analytics](http://www.google.com/analytics/) - free, standard analytics for mobile apps and mobile web.
+* [Upsight](http://www.upsight.com/) - mobile app analytics tool for developers.
 * [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics/) - Amazons multi-platform, basic mobile analytics tool.
 * [Tapstream](https://tapstream.com/) - user lifecycle analytics.
 * [Honeytracks](https://honeytracks.com/) - mobile app analytics for games.
@@ -119,6 +120,7 @@ Often there is no clear differentiation between social media management and anal
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
+* [Looker](http://looker.com/) - business intelligence software to empower business users to discover data, perform their own analysis, and visualize and dashboard their findings.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
