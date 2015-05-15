@@ -38,7 +38,7 @@ Your feedback and contributions are always welcome!
 * [Adobe Digital Analytics](http://www.adobe.com/solutions/digital-analytics/marketing-reports-analytics.html) - standard analytics tools plus some that large organizations can use.
 * [Paditrack.com/](https://paditrack.com/) - analyze any data from Google Analytics, including the data you had before.
 * [Hitslink.com/](http://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
-* [parse.ly ](http://parse.ly%20) - real-time web analytics tool with a focus on tracking content.
+* [parse.ly ](http://parse.ly/) - real-time web analytics tool with a focus on tracking content.
 * [Loggr](http://loggr.net/) -  track your user events and monitor your web app.
 * [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool.
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
@@ -50,7 +50,7 @@ Your feedback and contributions are always welcome!
 * [Reinviorate](https://www.reinvigorate.net/) - real-time analytics tool with heatmaps.
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
-* [Mouseflow](http://mouseflow.com/%20) - live analytics and heatmaps.
+* [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
 * [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
 * [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
