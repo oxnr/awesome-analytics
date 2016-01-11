@@ -83,6 +83,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Mixpanel](https://mixpanel.com/) - fully featured mobile analytics platform with segmentation and push.
 * [Localytics](http://www.localytics.com/) - fast and beautiful real-time mobile analytics platform with in-app and push.
 * [GameAnalytics](http://www.gameanalytics.com/) - leading game analytics platform.
+* [Liquid](https:/onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
 
 ## App store analytics
 
