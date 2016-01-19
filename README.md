@@ -61,6 +61,7 @@ Your feedback and contributions are always welcome!
 * [Keen.io](http://adjust.com/) - custom-analytics API.
 * [Popcorn metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
 * [Segment.io](http://Segment.io) - helps you integrate multiple app analytics tool with one piece of code.
+* [Analyze.ly](http://analyze.ly/) - automatic third-party data ingestion for Google Analytics
 
 ## Mobile analytics
 
