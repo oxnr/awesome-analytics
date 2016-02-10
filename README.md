@@ -48,7 +48,6 @@ Your feedback and contributions are always welcome!
 
 ## Heatmap analytics
 
-* [Reinviorate](https://www.reinvigorate.net/) - real-time analytics tool with heatmaps.
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
 * [Mouseflow](http://mouseflow.com/%20) - live analytics and heatmaps.
