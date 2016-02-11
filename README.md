@@ -53,7 +53,6 @@ Your feedback and contributions are always welcome!
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
 * [Mouseflow](http://mouseflow.com/%20) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
-* [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
 * [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
 
 ## Analytics layers
