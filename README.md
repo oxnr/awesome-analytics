@@ -5,14 +5,14 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 Your feedback and contributions are always welcome!
 
 - [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#General analytics)
-    - [Heatmap analytics](#Heatmap-analytics)
-    - [Analytics layers](#Analytics-layers)
-    - [Mobile analytics](#Mobile-analytics)
-    - [App store analytics](#App-store-analytics)
-    - [Attribution tracking](#Attribution-tracking)
-    - [Social media analytics](#Social-media-analytics)
-    - [Analytics dashboards](#Analytics-dashboards)
+    - [General analytics](#general analytics)
+    - [Heatmap analytics](#heatmap-analytics)
+    - [Analytics layers](#analytics-layers)
+    - [Mobile analytics](#mobile-analytics)
+    - [App store analytics](#app-store-analytics)
+    - [Attribution tracking](#attribution-tracking)
+    - [Social media analytics](#social-media-analytics)
+    - [Analytics dashboards](#analytics-dashboards)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
