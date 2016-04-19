@@ -18,6 +18,7 @@ Your feedback and contributions are always welcome!
 ## General analytics
 
 * [Hotjar](https://www.hotjar.com) - new and easy way to truly understand your web and mobile site visitors.
+* [CleverTap] (https://www.clevertap.com) - Mobile analytics and engagement platform with 1 million free events.
 * [Piwik](http://piwik.org/) - real-time open source app analytics tool.
 * [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
