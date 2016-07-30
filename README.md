@@ -37,7 +37,6 @@ Your feedback and contributions are always welcome!
 * [Statcountr](http://statcounter.com/) - one of the ORIGINAL web analytics tools available.
 * [Snow Plow](http://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
 * [Adobe Digital Analytics](http://www.adobe.com/solutions/digital-analytics/marketing-reports-analytics.html) - standard analytics tools plus some that large organizations can use.
-* [Paditrack.com/](https://paditrack.com/) - analyze any data from Google Analytics, including the data you had before.
 * [Hitslink.com/](http://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
 * [parse.ly ](http://parse.ly%20) - real-time web analytics tool with a focus on tracking content.
 * [Loggr](http://loggr.net/) -  track your user events and monitor your web app.
@@ -48,10 +47,9 @@ Your feedback and contributions are always welcome!
 
 ## Heatmap analytics
 
-* [Reinviorate](https://www.reinvigorate.net/) - real-time analytics tool with heatmaps.
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
-* [Mouseflow](http://mouseflow.com/%20) - live analytics and heatmaps.
+* [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
 * [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
 * [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
@@ -77,7 +75,6 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Flurry](http://www.flurry.com/) - pretty much the “industry standard” for mobile app analytics.
 * [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
 * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
-* [Capptain](http://www.capptain.com/) - real-time analytics tool with segmentation and push.
 * [Amplitude](https://amplitude.com/) - real-time mobile analytics with all data provided in redshift.
 * [Appsee](http://www.appsee.com/) - mobile app analytics platform automatically tracks all users' interactions in your app
 * [Mixpanel](https://mixpanel.com/) - fully featured mobile analytics platform with segmentation and push.
@@ -108,7 +105,6 @@ Often there is no clear differentiation between social media management and anal
 * [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance.
 * [Kred](http://kred.com/) - Klout-like social media analytics platform.
 * [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform.
-* [Topsy](http://topsy.com/) - Social analytics tool with search.
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking.
 * [SocialBench](https://klout.com/) - Social media analytics platform.
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
