@@ -83,6 +83,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Mixpanel](https://mixpanel.com/) - fully featured mobile analytics platform with segmentation and push.
 * [Localytics](http://www.localytics.com/) - fast and beautiful real-time mobile analytics platform with in-app and push.
 * [GameAnalytics](http://www.gameanalytics.com/) - leading game analytics platform.
+* [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS
 
 ## App store analytics
 
