@@ -45,6 +45,7 @@ Your feedback and contributions are always welcome!
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](http://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
+* [PicoStats](https://www.picostats.com/) - Open Source web analytics, free SaaS analytics and managed web analytics.
 
 ## Heatmap analytics
 
