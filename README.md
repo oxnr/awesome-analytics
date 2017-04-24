@@ -5,7 +5,7 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 Your feedback and contributions are always welcome!
 
 - [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#General analytics)
+    - [General analytics](#General-analytics)
     - [Heatmap analytics](#Heatmap-analytics)
     - [Analytics layers](#Analytics-layers)
     - [Mobile analytics](#Mobile-analytics)
