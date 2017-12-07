@@ -22,7 +22,7 @@ Your feedback and contributions are always welcome!
 * [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
-* [Foxmetrics](http://foxmetrics.com/%20) - analytics to track your user’s actions and activities.
+* [Foxmetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
 * [Google Analytics](http://www.google.com/analytics/) - de facto standard for analytics in the web analytics space.
 * [Clicktale](http://www.clicktale.com/) - record and watch exactly how a visitor used your website.
 * [Go Squared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
@@ -39,7 +39,7 @@ Your feedback and contributions are always welcome!
 * [Adobe Digital Analytics](http://www.adobe.com/solutions/digital-analytics/marketing-reports-analytics.html) - standard analytics tools plus some that large organizations can use.
 * [Paditrack.com/](https://paditrack.com/) - analyze any data from Google Analytics, including the data you had before.
 * [Hitslink.com/](http://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
-* [parse.ly ](http://parse.ly%20) - real-time web analytics tool with a focus on tracking content.
+* [parse.ly ](http://parse.ly/) - real-time web analytics tool with a focus on tracking content.
 * [Loggr](http://loggr.net/) -  track your user events and monitor your web app.
 * [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool.
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
@@ -51,7 +51,7 @@ Your feedback and contributions are always welcome!
 * [Reinviorate](https://www.reinvigorate.net/) - real-time analytics tool with heatmaps.
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
-* [Mouseflow](http://mouseflow.com/%20) - live analytics and heatmaps.
+* [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
 * [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
 * [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
