@@ -45,6 +45,7 @@ Your feedback and contributions are always welcome!
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](http://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
+* [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
 ## Heatmap analytics
 
