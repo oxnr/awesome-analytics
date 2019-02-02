@@ -75,7 +75,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Roambi](http://www.roambi.com/) - 3-in-1 analytics tool that helps you track analytics, handle mobile app business intelligence, and app reporting.
 * [Appcelerator](http://www.appcelerator.com/platform/appcelerator-analytics/) - entire mobile app marketing suite.
 * [Flurry](http://www.flurry.com/) - pretty much the “industry standard” for mobile app analytics.
-* [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
+* [Countly](http://count.ly/) - open source mobile & web application analytics tool.
 * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
 * [Capptain](http://www.capptain.com/) - real-time analytics tool with segmentation and push.
 * [Amplitude](https://amplitude.com/) - real-time mobile analytics with all data provided in redshift.
