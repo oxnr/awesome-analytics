@@ -5,7 +5,7 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 Your feedback and contributions are always welcome!
 
 - [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#General analytics)
+    - [General analytics](#General-analytics)
     - [Heatmap analytics](#Heatmap-analytics)
     - [Analytics layers](#Analytics-layers)
     - [Mobile analytics](#Mobile-analytics)
@@ -25,7 +25,7 @@ Your feedback and contributions are always welcome!
 * [Foxmetrics](http://foxmetrics.com/%20) - analytics to track your user’s actions and activities.
 * [Google Analytics](http://www.google.com/analytics/) - de facto standard for analytics in the web analytics space.
 * [Clicktale](http://www.clicktale.com/) - record and watch exactly how a visitor used your website.
-* [Go Squared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
+* [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
 * [Clicky](http://clicky.com/) - track visits and conversions, you can also track your video and audio analytics.
 * [Woopra](https://www.woopra.com/) - track where your users are coming from.
 * [Mint](http://haveamint.com/) - elf-hosted analytics solution. 
@@ -59,7 +59,7 @@ Your feedback and contributions are always welcome!
 ## Analytics layers
 
 * [Keen.io](http://keen.io/) - custom-analytics API.
-* [Popcorn metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
+* [Popcorn metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms.
 * [Segment.io](http://Segment.io) - helps you integrate multiple app analytics tool with one piece of code.
 
 ## Mobile analytics
