@@ -28,7 +28,7 @@ Your feedback and contributions are always welcome!
 * [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
 * [Clicky](http://clicky.com/) - track visits and conversions, you can also track your video and audio analytics.
 * [Woopra](https://www.woopra.com/) - track where your users are coming from.
-* [Mint](http://haveamint.com/) - elf-hosted analytics solution. 
+* [Mint](http://haveamint.com/) - elf-hosted analytics solution.
 * [Going Up](http://www.goingup.com/) - manage SEO analytics and web app analytics with one tool.
 * [Chartbeat](https://chartbeat.com/) - beautiful, real-time app analytics tool for web apps.
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool.
@@ -120,6 +120,7 @@ Often there is no clear differentiation between social media management and anal
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
+* [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
