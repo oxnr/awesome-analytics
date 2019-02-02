@@ -5,14 +5,14 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 Your feedback and contributions are always welcome!
 
 - [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#General-analytics)
-    - [Heatmap analytics](#Heatmap-analytics)
-    - [Analytics layers](#Analytics-layers)
-    - [Mobile analytics](#Mobile-analytics)
-    - [App store analytics](#App-store-analytics)
-    - [Attribution tracking](#Attribution-tracking)
-    - [Social media analytics](#Social-media-analytics)
-    - [Analytics dashboards](#Analytics-dashboards)
+    - [General analytics](#general-analytics)
+    - [Heatmap analytics](#heatmap-analytics)
+    - [Analytics layers](#analytics-layers)
+    - [Mobile analytics](#mobile-analytics)
+    - [App store analytics](#app-store-analytics)
+    - [Attribution tracking](#attribution-tracking)
+    - [Social media analytics](#social-media-analytics)
+    - [Analytics dashboards](#analytics-dashboards)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
@@ -44,6 +44,7 @@ Your feedback and contributions are always welcome!
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
+* [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
 
 ## Heatmap analytics
 
@@ -57,7 +58,7 @@ Your feedback and contributions are always welcome!
 
 ## Analytics layers
 
-* [Keen.io](http://adjust.com/) - custom-analytics API.
+* [Keen.io](http://keen.io/) - custom-analytics API.
 * [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code.
 
@@ -74,7 +75,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Roambi](http://www.roambi.com/) - 3-in-1 analytics tool that helps you track analytics, handle mobile app business intelligence, and app reporting.
 * [Appcelerator](http://www.appcelerator.com/platform/appcelerator-analytics/) - entire mobile app marketing suite.
 * [Flurry](http://www.flurry.com/) - pretty much the “industry standard” for mobile app analytics.
-* [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
+* [Countly](http://count.ly/) - open source mobile & web application analytics tool.
 * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
 * [Capptain](http://www.capptain.com/) - real-time analytics tool with segmentation and push.
 * [Amplitude](https://amplitude.com/) - real-time mobile analytics with all data provided in redshift.
@@ -82,6 +83,8 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Mixpanel](https://mixpanel.com/) - fully featured mobile analytics platform with segmentation and push.
 * [Localytics](http://www.localytics.com/) - fast and beautiful real-time mobile analytics platform with in-app and push.
 * [GameAnalytics](http://www.gameanalytics.com/) - leading game analytics platform.
+* [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS
+* [Liquid](https:/onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
 
 ## App store analytics
 
@@ -118,7 +121,7 @@ Often there is no clear differentiation between social media management and anal
 
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
-* [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
+* [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
