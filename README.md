@@ -5,62 +5,62 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 Your feedback and contributions are always welcome!
 
 - [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#General analytics)
-    - [Heatmap analytics](#Heatmap-analytics)
-    - [Analytics layers](#Analytics-layers)
-    - [Mobile analytics](#Mobile-analytics)
-    - [App store analytics](#App-store-analytics)
-    - [Attribution tracking](#Attribution-tracking)
-    - [Social media analytics](#Social-media-analytics)
-    - [Analytics dashboards](#Analytics-dashboards)
+    - [General analytics](#general-analytics)
+    - [Heatmap analytics](#heatmap-analytics)
+    - [Analytics layers](#analytics-layers)
+    - [Mobile analytics](#mobile-analytics)
+    - [App store analytics](#app-store-analytics)
+    - [Attribution tracking](#attribution-tracking)
+    - [Social media analytics](#social-media-analytics)
+    - [Analytics dashboards](#analytics-dashboards)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
 
-* [Hotjar](https://www.hotjar.com) - new and easy way to truly understand your web and mobile site visitors.
-* [Piwik](http://piwik.org/) - real-time open source app analytics tool.
+* [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
+* [Piwik](https://piwik.org/) - real-time open source app analytics tool.
 * [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
-* [Foxmetrics](http://foxmetrics.com/%20) - analytics to track your user’s actions and activities.
-* [Google Analytics](http://www.google.com/analytics/) - de facto standard for analytics in the web analytics space.
-* [Clicktale](http://www.clicktale.com/) - record and watch exactly how a visitor used your website.
-* [Go Squared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
+* [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
+* [Google Analytics](https://www.google.com/analytics/) - de facto standard for analytics in the web analytics space.
+* [Clicktale](https://www.clicktale.com) - record and watch exactly how a visitor used your website.
+* [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
 * [Clicky](http://clicky.com/) - track visits and conversions, you can also track your video and audio analytics.
 * [Woopra](https://www.woopra.com/) - track where your users are coming from.
-* [Mint](http://haveamint.com/) - elf-hosted analytics solution. 
-* [Going Up](http://www.goingup.com/) - manage SEO analytics and web app analytics with one tool.
+* [Mint](https://haveamint.com/) - self-hosted analytics solution (no longer on sale). 
+* [Going Up](https://www.goingup.com/) - manage SEO analytics and web app analytics with one tool.
 * [Chartbeat](https://chartbeat.com/) - beautiful, real-time app analytics tool for web apps.
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool.
-* [Indicative](http://www.indicative.com/) - Web & mobile  analytics tool.
+* [Indicative](https://www.indicative.com/) - Web & mobile  analytics tool.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - open source web app analytics tool.
-* [Statcountr](http://statcounter.com/) - one of the ORIGINAL web analytics tools available.
-* [Snow Plow](http://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
-* [Adobe Digital Analytics](http://www.adobe.com/solutions/digital-analytics/marketing-reports-analytics.html) - standard analytics tools plus some that large organizations can use.
-* [Paditrack.com/](https://paditrack.com/) - analyze any data from Google Analytics, including the data you had before.
-* [Hitslink.com/](http://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
-* [parse.ly ](http://parse.ly%20) - real-time web analytics tool with a focus on tracking content.
+* [Statcounter](https://statcounter.com/) - one of the ORIGINAL web analytics tools available.
+* [Snow Plow](https://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
+* [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use.
+* [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
+* [parse.ly](https://www.parse.ly) - real-time web analytics tool with a focus on tracking content.
 * [Loggr](http://loggr.net/) -  track your user events and monitor your web app.
 * [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool.
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
-* [Sitespect](http://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
+* [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
+* [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
 
 ## Heatmap analytics
 
 * [Reinviorate](https://www.reinvigorate.net/) - real-time analytics tool with heatmaps.
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
-* [Mouseflow](http://mouseflow.com/%20) - live analytics and heatmaps.
+* [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
 * [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
 * [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
 
 ## Analytics layers
 
-* [Keen.io](http://adjust.com/) - custom-analytics API.
-* [Popcorn metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
-* [Segment.io](http://Segment.io) - helps you integrate multiple app analytics tool with one piece of code.
+* [Keen.io](http://keen.io/) - custom-analytics API.
+* [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
+* [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code.
 
 ## Mobile analytics
 
@@ -75,7 +75,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Roambi](http://www.roambi.com/) - 3-in-1 analytics tool that helps you track analytics, handle mobile app business intelligence, and app reporting.
 * [Appcelerator](http://www.appcelerator.com/platform/appcelerator-analytics/) - entire mobile app marketing suite.
 * [Flurry](http://www.flurry.com/) - pretty much the “industry standard” for mobile app analytics.
-* [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
+* [Countly](http://count.ly/) - open source mobile & web application analytics tool.
 * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
 * [Capptain](http://www.capptain.com/) - real-time analytics tool with segmentation and push.
 * [Amplitude](https://amplitude.com/) - real-time mobile analytics with all data provided in redshift.
@@ -84,6 +84,8 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Localytics](http://www.localytics.com/) - fast and beautiful real-time mobile analytics platform with in-app and push.
 * [GameAnalytics](http://www.gameanalytics.com/) - leading game analytics platform.
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging
+* [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS
+* [Liquid](https:/onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
 
 ## App store analytics
 
@@ -97,7 +99,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 ## Attribution tracking
 
 * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
-* [Clickmeter](http://clickmeter.com/) - analytics tool that helps you track marketing campaigns.
+* [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns.
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform.
 
 ## Social media analytics
@@ -111,7 +113,7 @@ Often there is no clear differentiation between social media management and anal
 * [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform.
 * [Topsy](http://topsy.com/) - Social analytics tool with search.
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking.
-* [SocialBench](https://klout.com/) - Social media analytics platform.
+* [Klout](https://klout.com/) - Social media analytics platform.
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
 * [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
@@ -120,7 +122,7 @@ Often there is no clear differentiation between social media management and anal
 
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
-* [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
+* [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
