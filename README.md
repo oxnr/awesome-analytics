@@ -45,6 +45,7 @@ Your feedback and contributions are always welcome!
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](http://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
+* [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
 
 ## Heatmap analytics
 
