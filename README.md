@@ -6,6 +6,7 @@ Your feedback and contributions are always welcome!
 
 - [Awesome Analytics](#awesome-analytics)
     - [General analytics](#general-analytics)
+    - [Privacy focused analytics](#privacy-focused-analytics)
     - [Heatmap analytics](#heatmap-analytics)
     - [Analytics layers](#analytics-layers)
     - [Mobile analytics](#mobile-analytics)
@@ -18,7 +19,7 @@ Your feedback and contributions are always welcome!
 ## General analytics
 
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
-* [Piwik](https://piwik.org/) - real-time open source app analytics tool.
+* [Matomo](https://matomo.org/) - real-time open source app analytics tool.
 * [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
@@ -45,6 +46,11 @@ Your feedback and contributions are always welcome!
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
+
+## Privacy focused analytics
+
+* [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
+* [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
 
 ## Heatmap analytics
 
