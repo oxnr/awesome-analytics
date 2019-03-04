@@ -18,6 +18,7 @@ Your feedback and contributions are always welcome!
 
 ## General analytics
 
+* [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
 * [Matomo](https://matomo.org/) - real-time open source app analytics tool.
 * [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
