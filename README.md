@@ -119,7 +119,6 @@ Often there is no clear differentiation between social media management and anal
 * [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform.
 * [Topsy](http://topsy.com/) - Social analytics tool with search.
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking.
-* [Klout](https://klout.com/) - Social media analytics platform.
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
 * [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
