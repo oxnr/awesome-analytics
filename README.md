@@ -46,6 +46,7 @@ Your feedback and contributions are always welcome!
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
+* [Lyticus](https://lyticus.com/) - entry-level web analytics.
 
 ## Privacy focused analytics
 
