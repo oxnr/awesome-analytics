@@ -1,8 +1,8 @@
 # Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata). 
 
-Your feedback and contributions are always welcome!
+Your feedback and contributions are always welcome! Maintained by [@onurakpolat](https://github.com/onurakpolat) & [@koconder](https://github.com/koconder)
 
 - [Awesome Analytics](#awesome-analytics)
     - [General analytics](#general-analytics)
@@ -15,6 +15,7 @@ Your feedback and contributions are always welcome!
     - [Social media analytics](#social-media-analytics)
     - [Analytics dashboards](#analytics-dashboards)
     - [Developer analytics](#developer-analytics)
+    
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
