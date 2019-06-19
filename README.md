@@ -20,7 +20,6 @@ Your feedback and contributions are always welcome!
 
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
 * [Matomo](https://matomo.org/) - real-time open source app analytics tool.
-* [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
