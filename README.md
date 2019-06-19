@@ -14,6 +14,7 @@ Your feedback and contributions are always welcome!
     - [Attribution tracking](#attribution-tracking)
     - [Social media analytics](#social-media-analytics)
     - [Analytics dashboards](#analytics-dashboards)
+    - [Developer analytics](#developer-analytics)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
@@ -120,6 +121,12 @@ Often there is no clear differentiation between social media management and anal
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking.
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
+
+## Developer analytics
+
+* [GitSpo](https://gitspo.com/) - Analytics for Open-Source.
+* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams
+* [Screenful](https://screenful.com/) - Visualise and share your project progress
 
 ## Analytics dashboards
 
