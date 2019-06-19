@@ -47,6 +47,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
+* [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 
 ## Privacy focused analytics
 
