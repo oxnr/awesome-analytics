@@ -18,10 +18,8 @@ Your feedback and contributions are always welcome!
 
 ## General analytics
 
-* [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
 * [Matomo](https://matomo.org/) - real-time open source app analytics tool.
-* [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
@@ -47,6 +45,7 @@ Your feedback and contributions are always welcome!
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
+* [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 
 ## Privacy focused analytics
 
