@@ -111,7 +111,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 
 Often there is no clear differentiation between social media management and analytics as most the tools provide analytics.
 
-* [Klout](https://klout.com/) - Social media analytics and planning platform.
+* [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Falconsocial](http://www.falconsocial.com/) - communications platform built on social media with analytics.
 * [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance.
 * [Kred](http://kred.com/) - Klout-like social media analytics platform.
@@ -119,7 +119,6 @@ Often there is no clear differentiation between social media management and anal
 * [Topsy](http://topsy.com/) - Social analytics tool with search.
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking.
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
-* [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
 
 ## Analytics dashboards
