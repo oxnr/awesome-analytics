@@ -14,7 +14,7 @@ Your feedback and contributions are always welcome!
     - [Attribution tracking](#attribution-tracking)
     - [Social media analytics](#social-media-analytics)
     - [Analytics dashboards](#analytics-dashboards)
-    - [GitHub analytics](#github-analytics)
+    - [Developer analytics](#developer-analytics)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
@@ -125,9 +125,11 @@ Often there is no clear differentiation between social media management and anal
 * [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
 
-## GitHub analytics
+## Developer analytics
 
 * [GitSpo](https://gitspo.com/) - Analytics for Open-Source.
+* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams
+* [Screenful](https://screenful.com/) - Visualise and share your project progress
 
 ## Analytics dashboards
 
