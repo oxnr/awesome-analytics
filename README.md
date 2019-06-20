@@ -67,8 +67,9 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 ## Analytics layers
 
 * [Keen.io](http://keen.io/) - custom-analytics API.
-* [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
+* [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms.
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code.
+* [Iteratively](https://iterative.ly/) - capture clean product analytics consistently across teams & platforms.
 
 ## Mobile analytics
 
