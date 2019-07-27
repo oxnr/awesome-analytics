@@ -49,6 +49,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
+* [Smartlook](https://www.smartlook.com) - qualitative analytics for websites & mobile apps (session replay, heatmaps, events & funnels analytics)
 
 ## Privacy focused analytics
 
@@ -64,6 +65,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
 * [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
 * [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
+* [Smartlook](https://www.smartlook.com) - qualitative analytics for websites & mobile apps (session replay, heatmaps, events & funnels analytics)
 
 ## Analytics layers
 
@@ -96,6 +98,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS
 * [Liquid](https:/onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
+* [Smartlook](https://www.smartlook.com) - qualitative analytics for websites & mobile apps (session replay, heatmaps, events & funnels analytics)
 
 ## App store analytics
 
