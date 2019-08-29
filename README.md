@@ -71,6 +71,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms.
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code.
 * [Iteratively](https://iterative.ly/) - capture clean product analytics consistently across teams & platforms.
+* [Analytics lib](https://getanalytics.io/) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 
 ## Mobile analytics
 
