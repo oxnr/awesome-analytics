@@ -15,6 +15,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
     - [Social media analytics](#social-media-analytics)
     - [Analytics dashboards](#analytics-dashboards)
     - [Developer analytics](#developer-analytics)
+    - [Data Pipeline analytics](#data-pipelinne-analytics)
     
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -131,6 +132,10 @@ Often there is no clear differentiation between social media management and anal
 * [GitSpo](https://gitspo.com/) - Analytics for Open-Source.
 * [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams
 * [Screenful](https://screenful.com/) - Visualise and share your project progress
+
+## Data Pipeline analytics
+
+* [intermix.io](https://intermix.io/) - Data Pipeline monitoring and analytics.
 
 ## Analytics dashboards
 
