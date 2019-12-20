@@ -54,6 +54,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
+* [Offen](https://github.com/offen/offen) - Self-hosted web analytics with a focus on transparency and fairness
 
 ## Heatmap analytics
 
