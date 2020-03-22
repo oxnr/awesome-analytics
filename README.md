@@ -50,6 +50,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 * [LiveSession](https://livesession.io) - session replay user analytics.
+* [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics.
 
 ## Privacy focused analytics
 
