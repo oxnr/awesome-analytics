@@ -79,7 +79,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 
 * [Upsight](http://www.upsight.com/) - mobile app analytics tool for developers.
 * [Appsflyer](http://www.appsflyer.com/) - all-in-one marketing tool with analytics.
-* [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics/) - Amazons multi-platform, basic mobile analytics tool.
+* [Amazon Pinpoint](https://aws.amazon.com/pinpoint/) - Amazons multi-platform, basic mobile analytics tool.
 * [Tapstream](https://tapstream.com/) - user lifecycle analytics.
 * [Honeytracks](https://honeytracks.com/) - mobile app analytics for games.
 * [Apsalar](https://apsalar.com/) - analytics tool for larger app shops.
