@@ -143,6 +143,10 @@ Often there is no clear differentiation between social media management and anal
 * [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution
 * [Metabase] (https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
+## Game analytics
+
+* [Devtodev](https://devtodev.com/) - A full-cycle analytics solution for game developers.
+
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
