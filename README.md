@@ -56,6 +56,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
+* [LinkedIn Connections Growth Analysis](https://github.com/guillaume-chevalier/LinkedIn-Connections-Growth-Analysis) - Assessing personal growth on LinkedIn with charts: plot LinkedIn connections over time, and discover what your connections most do & where they most work.
 
 ## Heatmap analytics
 
