@@ -57,6 +57,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
 * [GoatCounter](https://www.goatcounter.com) - Web analytics without tracking of personal data; can be [self-hosted](https://github.com/zgoat/goatcounter), or use the SaaS.
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
+* [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics; can be [self-hosted](https://github.com/milesmcc/shynet). 
 
 ## Heatmap analytics
 
