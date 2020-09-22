@@ -61,12 +61,10 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Heatmap analytics
 
-* [Reinviorate](https://www.reinvigorate.net/) - real-time analytics tool with heatmaps.
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
 * [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
-* [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
 * [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
 
 ## Analytics layers
