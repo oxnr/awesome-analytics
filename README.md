@@ -61,11 +61,10 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Heatmap analytics
 
-* [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
+* [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analytics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
 * [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
-* [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
 
 ## Analytics layers
 
