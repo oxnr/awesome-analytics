@@ -58,16 +58,14 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [GoatCounter](https://www.goatcounter.com) - Web analytics without tracking of personal data; can be [self-hosted](https://github.com/zgoat/goatcounter), or use the SaaS.
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
+* [Umami](https://umami.is) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
 
 ## Heatmap analytics
 
-* [Reinviorate](https://www.reinvigorate.net/) - real-time analytics tool with heatmaps.
-* [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analtyics tool.
+* [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analytics tool.
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
 * [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
-* [Heatmaps for your iOS apps](https://heatma.ps/) - mobile app heatmaps for mobile apps.
-* [Heatmaps for Mobile Websites](http://heatdata.com/) - heatmaps tool for mobile apps and mobile websites.
 
 ## Analytics layers
 
@@ -100,7 +98,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [GameAnalytics](http://www.gameanalytics.com/) - leading game analytics platform.
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS
-* [Liquid](https:/onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
+* [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
 
 ## App store analytics
 
@@ -143,7 +141,7 @@ Often there is no clear differentiation between social media management and anal
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 * [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution
-* [Metabase] (https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+* [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
