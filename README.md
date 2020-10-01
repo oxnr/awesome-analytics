@@ -27,6 +27,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
 * [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - web data into insights that everyone can act on.
 * [Google Analytics](https://www.google.com/analytics/) - de facto standard for analytics in the web analytics space.
+* [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse.
 * [Clicktale](https://www.clicktale.com) - record and watch exactly how a visitor used your website.
 * [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
 * [Clicky](http://clicky.com/) - track visits and conversions, you can also track your video and audio analytics.
