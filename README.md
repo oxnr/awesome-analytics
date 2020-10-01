@@ -57,6 +57,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
 * [GoatCounter](https://www.goatcounter.com) - Web analytics without tracking of personal data; can be [self-hosted](https://github.com/zgoat/goatcounter), or use the SaaS.
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
+* [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
 * [Umami](https://umami.is) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
 
 ## Heatmap analytics
