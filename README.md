@@ -52,6 +52,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 * [LiveSession](https://livesession.io) - session replay user analytics.
 * [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics.
+* [Redash](https://redash.io/) - open source analytics/BI tool
 
 ## Privacy focused analytics
 
