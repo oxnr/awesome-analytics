@@ -97,7 +97,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [GameAnalytics](http://www.gameanalytics.com/) - leading game analytics platform.
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS
-* [Liquid](https:/onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
+* [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push.
 
 ## App store analytics
 
