@@ -54,16 +54,23 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [LiveSession](https://livesession.io) - session replay user analytics.
 * [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics.
 * [Redash](https://redash.io/) - open source analytics/BI tool
+* [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
+
+## Real-time
+
+* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 
 ## Privacy focused analytics
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
-* [GoatCounter](https://www.goatcounter.com) - Web analytics without tracking of personal data; can be [self-hosted](https://github.com/zgoat/goatcounter), or use the SaaS.
+* [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
 * [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data.
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
 * [Umami](https://umami.is) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
 * [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS; designed for self-hosting
+* [Freshlytics](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
+* [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
 
 ## Heatmap analytics
 
