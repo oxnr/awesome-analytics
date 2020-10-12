@@ -64,6 +64,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
 * [Umami](https://umami.is) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
 * [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS; designed for self-hosting
+* [🏴‍☠️ piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source.
 
 ## Heatmap analytics
 
