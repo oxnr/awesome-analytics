@@ -54,16 +54,20 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [LiveSession](https://livesession.io) - session replay user analytics.
 * [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics.
 * [Redash](https://redash.io/) - open source analytics/BI tool
+* [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+* [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
+* [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
 
 ## Privacy focused analytics
 
-* [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
+* [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users. `MIT` `Go`
 * [GoatCounter](https://www.goatcounter.com) - Web analytics without tracking of personal data; can be [self-hosted](https://github.com/zgoat/goatcounter), or use the SaaS.
 * [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data.
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
 * [Umami](https://umami.is) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
 * [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS; designed for self-hosting
+* [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 
 ## Heatmap analytics
 
