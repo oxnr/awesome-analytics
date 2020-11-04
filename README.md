@@ -78,6 +78,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 ## SEO
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
 
+
 ## Privacy focused analytics
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
@@ -174,7 +175,10 @@ Often there is no clear differentiation between social media management and anal
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 * [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution
-* [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+* [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data. Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Java`
+* [Chartbrew](https://chartbrew.com) - Open platform with which you can visualise your product's data. It connects to your DBs (MySQL, PostgreSQL, MongoDB) and APIs directly and you can get the data using the built-in query builders. ([Demo](https://chartbrew.com/b/Chartbrew86), [Source Code](https://github.com/chartbrew/chartbrew)) `MIT` `NodeJS`
+* [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
+* [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
 * [Socioboard](https://socioboard.org/) - `⚠` Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code](https://github.com/socioboard/Socioboard-4.0)) `GPL-3.0` `C#/JavaScript`
 
 # Other Awesome Lists
