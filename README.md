@@ -93,6 +93,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Freshlytics](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
 * [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
 * [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
+* [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source.
 
 ## Heatmap analytics
 
