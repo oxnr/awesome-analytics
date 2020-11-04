@@ -20,7 +20,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## General analytics
 
-* [PostHog](https://posthog.com) - open source product analytics to track users, events, funnels and trends.
+* [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
 * [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
@@ -49,7 +49,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
-* [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
+* [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 * [LiveSession](https://livesession.io) - session replay user analytics.
 * [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics.
@@ -66,11 +66,17 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 ## Website analytics
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 
+## Endpoints
+* [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0` `Go`
+
+## SEO
+* [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+
 ## Privacy focused analytics
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
+* [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `MIT` `Elixir`
 * [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
-* [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data.
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
 * [Umami](https://umami.is) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
