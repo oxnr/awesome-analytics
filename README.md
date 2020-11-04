@@ -40,7 +40,6 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with heavy emphasis on segmentation and funnel visualization.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
 * [Statcounter](https://statcounter.com/) - one of the ORIGINAL web analytics tools available.
-* [Snow Plow](https://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use.
 * [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
 * [parse.ly](https://www.parse.ly) - real-time web analytics tool with a focus on tracking content.
@@ -72,6 +71,13 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 ## SEO
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
 
+## Endpoints
+* [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0` `Go`
+* [Snowplow](http://snowplowanalytics.com/) - Analytics tool for web apps with a lot of data. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `real-time`
+
+## SEO
+* [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+
 ## Privacy focused analytics
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
@@ -79,8 +85,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
-* [Umami](https://umami.is) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
-* [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS; designed for self-hosting
+* [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
+* [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami)) `MIT` `Nodejs`
 * [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
 * [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 * [Freshlytics](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
@@ -169,6 +175,7 @@ Often there is no clear differentiation between social media management and anal
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 * [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution
 * [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+* [Socioboard](https://socioboard.org/) - `⚠` Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code](https://github.com/socioboard/Socioboard-4.0)) `GPL-3.0` `C#/JavaScript`
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
