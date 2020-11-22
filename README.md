@@ -45,7 +45,6 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [parse.ly](https://www.parse.ly) - real-time web analytics tool with a focus on tracking content.
 * [Loggr](http://loggr.net/) -  track your user events and monitor your web app.
 * [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool.
-* [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
