@@ -35,7 +35,6 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Woopra](https://www.woopra.com/) - track where your users are coming from.
 * [Mint](https://haveamint.com/) - self-hosted analytics solution (no longer on sale). 
 * [Going Up](https://www.goingup.com/) - manage SEO analytics and web app analytics with one tool.
-* [Chartbeat](https://chartbeat.com/) - beautiful, real-time app analytics tool for web apps.
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool.
 * [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with heavy emphasis on segmentation and funnel visualization.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
