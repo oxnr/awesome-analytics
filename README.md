@@ -6,6 +6,10 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 - [Awesome Analytics](#awesome-analytics)
     - [General analytics](#general-analytics)
+    - [Real-time](#real-time)
+    - [Website analytics](#website-analytics)
+    - [Endpoints](#endpoints)
+    - [SEO](#seo)
     - [Privacy focused analytics](#privacy-focused-analytics)
     - [Heatmap analytics](#heatmap-analytics)
     - [Analytics layers](#analytics-layers)
