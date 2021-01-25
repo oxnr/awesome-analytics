@@ -24,7 +24,6 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
 * [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
-* [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
 * [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - web data into insights that everyone can act on.
 * [Google Analytics](https://www.google.com/analytics/) - de facto standard for analytics in the web analytics space.
