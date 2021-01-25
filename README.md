@@ -172,6 +172,7 @@ Often there is no clear differentiation between social media management and anal
 * [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams
 * [GitSpo](https://gitspo.com/) - Analytics for Open-Source.
 * [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams
+* [Plandek](https://plandek.com) - Metrics and insights for software delivery
 * [Screenful](https://screenful.com/) - Visualise and share your project progress
 
 ## Analytics dashboards
