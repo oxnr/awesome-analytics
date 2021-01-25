@@ -178,6 +178,7 @@ Often there is no clear differentiation between social media management and anal
 * [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams
 * [Plandek](https://plandek.com) - Metrics and insights for software delivery
 * [Screenful](https://screenful.com/) - Visualise and share your project progress
+* [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package.
 
 ## Analytics dashboards
 
