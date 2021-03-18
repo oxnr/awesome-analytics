@@ -97,6 +97,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Endpoints
 * [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0` `Go`
+* [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
 * [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 
 ## SEO
