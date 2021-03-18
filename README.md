@@ -23,7 +23,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
-* [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics.
+* [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
+* [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors. `©` `SaaS`
 * [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
@@ -62,6 +63,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
 * [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
+* [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
 ## Real-time
 
@@ -73,6 +75,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Endpoints
 * [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0` `Go`
+* [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
 * [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 * [Snowplow](http://snowplowanalytics.com/) - Analytics tool for web apps with a lot of data. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `real-time`
 
@@ -86,14 +89,13 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers `©` `SaaS`
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics `©` `SaaS`
-* [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users.
 * [GoatCounter](https://www.goatcounter.com) - Web analytics without tracking of personal data; can be [self-hosted](https://github.com/zgoat/goatcounter), or use the SaaS.
 * [Kindmetrics](https://kindmetrics.io) - Clean and simple analytics that is privacy-focused, open source and can be self-hosted. Doesn't track personal data.
 * [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `MIT` `Elixir`
 * [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
-* [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
-* [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics
-* [Metrical](https://metrical.xyz/) - A privacy-first web analytics tool for everyone.
+* [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers `©` `SaaS`
+* [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics `©` `SaaS`
+* [Metrical](https://metrical.xyz/) - A privacy-first web analytics tool for everyone. `©` `SaaS`
 * [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
 * [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami)) `MIT` `Nodejs`
 * [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
@@ -102,6 +104,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
 * [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 * [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source. ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)) `MIT` `Nodejs`
+* [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
 ## Heatmap analytics
 
@@ -177,12 +180,12 @@ Often there is no clear differentiation between social media management and anal
 * [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 * [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
 * [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
-* [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams
-* [GitSpo](https://gitspo.com/) - Analytics for Open-Source.
-* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams
-* [Plandek](https://plandek.com) - Metrics and insights for software delivery
-* [Screenful](https://screenful.com/) - Visualise and share your project progress
-* [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package.
+* [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams `©` `SaaS`
+* [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
+* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
+* [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
+* [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
+* [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 
 ## Analytics dashboards
 
