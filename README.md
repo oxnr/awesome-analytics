@@ -48,7 +48,6 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use. `©` `SaaS`
 * [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation. `©` `SaaS`
 * [parse.ly](https://www.parse.ly) - real-time web analytics tool with a focus on tracking content. `©` `SaaS`
-* [Loggr](http://loggr.net/) -  track your user events and monitor your web app. `©` `SaaS`
 * [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool. `©` `SaaS`
 * [Sitemeter](http://sitemeter.com/) - old analytics tool. `©` `SaaS`
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool. `©` `SaaS`
