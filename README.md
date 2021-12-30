@@ -23,6 +23,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
+**[`^        back to top        ^`](#)**
 * [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
 * [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
@@ -66,22 +67,27 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
 ## Real-time
+**[`^        back to top        ^`](#)**
 
 * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 
 ## Website analytics
+**[`^        back to top        ^`](#)**
 
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 
 ## Endpoints
+**[`^        back to top        ^`](#)**
 * [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
 * [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 * [Snowplow](http://snowplowanalytics.com/) - Analytics tool for web apps with a lot of data. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `real-time`
 
 ## SEO
+**[`^        back to top        ^`](#)**
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
 
 ## Privacy focused analytics
+**[`^        back to top        ^`](#)**
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users `©` `SaaS`
 * [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `MIT` `Elixir`
@@ -100,6 +106,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
 ## Heatmap analytics
+**[`^        back to top        ^`](#)**
 
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analytics tool. `©` `SaaS`
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool. `©` `SaaS`
@@ -107,6 +114,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool. `©` `SaaS`
 
 ## Analytics layers
+**[`^        back to top        ^`](#)**
 
 * [Keen.io](http://keen.io/) - custom-analytics API. `©` `SaaS`
 * [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms. `©` `SaaS`
@@ -115,6 +123,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Analytics npm package](https://getanalytics.io/) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users. Works in browsers & node.js. `©` `SaaS`
 
 ## Mobile analytics
+**[`^        back to top        ^`](#)**
 
 The tools listed here are not necessarily mobile analytics tools only. However they show a strong mobile focus.
 
@@ -140,6 +149,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push. `©` `SaaS`
 
 ## App store analytics
+**[`^        back to top        ^`](#)**
 
 * [Appfigures](http://appfigures.com/) - app store analytics to track sales, reviews and rankings with an API. `©` `SaaS`
 * [Appannie](http://www.appannie.com/) - track your app data from iTunes, Google Play & Amazon. `©` `SaaS`
@@ -149,12 +159,14 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform. `©` `SaaS`
 
 ## Attribution tracking
+**[`^        back to top        ^`](#)**
 
 * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking. `©` `SaaS`
 * [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
 
 ## Social media analytics
+**[`^        back to top        ^`](#)**
 
 Often there is no clear differentiation between social media management and analytics as most the tools provide analytics.
 
@@ -169,6 +181,7 @@ Often there is no clear differentiation between social media management and anal
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
 
 ## Developer analytics
+**[`^        back to top        ^`](#)**
 
 * [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 * [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
@@ -181,6 +194,7 @@ Often there is no clear differentiation between social media management and anal
 * [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 
 ## Analytics dashboards
+**[`^        back to top        ^`](#)**
 
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place. `©` `SaaS`
