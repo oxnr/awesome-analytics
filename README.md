@@ -83,6 +83,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Privacy focused analytics
 
+* [Counter](https://counter.dev/) - Counter Analytics are open source, pay what you want and privacy-friendly web analytics with No Cookies. No logging. No IP address fingerprinting. `AGPLv3` `Go`
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users `©` `SaaS`
 * [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `MIT` `Elixir`
 * [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
