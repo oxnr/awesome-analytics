@@ -68,7 +68,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 ## Real-time
 
 * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
-* [rtdl](https://rtdl.io/) - rtdl is the real-time data lake. It is the easiest way to build a real-time data lake on AWS, GCP, and Azure. You configure a data stream with a source and a cloud storage destination, and rtdl builds you a real-time data lake in Parquet format that automatically works with Dremio to give you access your real-time data in common BI and ML tools. ([Source Code](https://github.com/realtimedatalake/rtdl)) `MIT` `Docker & Go`
+* [rtdl](https://rtdl.io/) - rtdl is the real-time data lake. It is the easiest way to build a real-time data lake on AWS, GCP, and Azure. You configure a data stream with a source and a cloud storage destination, and rtdl builds you a real-time data lake in Parquet format that automatically works with Dremio to give you access your real-time data in common BI and ML tools. ([Source Code](https://github.com/realtimedatalake/rtdl)) `MIT` `Go/Docker` `Self-Hosted`
 
 ## Website analytics
 
