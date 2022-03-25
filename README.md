@@ -23,7 +23,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
-* [Fugu](https://fugu.lol) - Privacy-friendly, simple and open-source product analytics (event-based). `©` `Self-Hosted` `SaaS` `Ruby on Rails` `AGPLv3`
+* [Fugu](https://fugu.lol) - Privacy-friendly, simple and open-source product analytics (event-based). Alternative to Mixpanel/Amplitude/Heap. ([Source Code](https://github.com/shafy/fugu)) `©` `Self-Hosted` `SaaS` `Ruby on Rails` `AGPLv3`
 * [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
 * [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
