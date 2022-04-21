@@ -108,6 +108,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Analytics layers
 
+* [Objectiv](https://objectiv.io/) - Open-source product analytics infrastructure with a generic event taxonomy. ([Source Code](https://github.com/objectiv/objectiv-analytics)) `Apache-2.0` `Python`
 * [Keen.io](http://keen.io/) - custom-analytics API. `©` `SaaS`
 * [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms. `©` `SaaS`
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code. `©` `SaaS`
