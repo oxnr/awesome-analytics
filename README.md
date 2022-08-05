@@ -19,10 +19,12 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
     - [Social media analytics](#social-media-analytics)
     - [Analytics dashboards](#analytics-dashboards)
     - [Developer analytics](#developer-analytics)
-    
 - [Other Awesome Lists](#other-awesome-lists)
 
+
 ## General analytics
+
+* [66Analytics](https://66analytics.com/) - Self-hosted, friendly, all-in-one web analytics tool. Lightweight tracking, session replays, heatmaps, user journeys & more. Can be used for personal reasons & can be white labeled to start a SAAS. ([Demo](https://66analytics.com/demo)) `©` `Self-Hosted` `PHP/MySQL`
 * [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
 * [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
