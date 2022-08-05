@@ -64,6 +64,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 * [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
+* [UXLens](https://uxlens.com/) - Website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord. ([Demo](https://console.uxlens.com/test)) `⊘ Proprietary` `Self-hosted` `Docker/Nodejs`
 
 ## Real-time
 
