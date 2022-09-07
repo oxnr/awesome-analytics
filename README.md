@@ -179,6 +179,7 @@ Often there is no clear differentiation between social media management and anal
 * [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 * [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
 * [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
+* [Callcounter](https://callcounter.eu/) - Analytics for web APIs you provide. `©` `SaaS`
 
 ## Analytics dashboards
 
