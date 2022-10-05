@@ -64,6 +64,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 * [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
+* [Marble Metrics](http://marblemetrics.com/) - privacy-friendly analytics alternative to Google Analytics. `©` `SaaS`
+
 
 ## Real-time
 
