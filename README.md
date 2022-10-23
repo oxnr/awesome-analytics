@@ -98,6 +98,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 * [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source. ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)) `MIT` `Nodejs`
 * [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
+* [Alceris Analytics](https://alceris.com/) - Alceris Analytics is a privacy-focused website analytics solution which creates insights without using any user identifying data or cookies. Simple, lightweight, GDPR compliant and hosted in the EU `©` `SaaS`
 
 ## Heatmap analytics
 
