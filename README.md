@@ -79,6 +79,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Snowplow](http://snowplowanalytics.com/) - Analytics tool for web apps with a lot of data. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `real-time`
 
 ## SEO
+* [Serpbear](https://docs.serpbear.com/) - Search Engine Position Rank Tracking App ([Source Code](https://github.com/towfiqi/serpbear)) `MIT` `React/NodeJS`
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
 
 ## Privacy focused analytics
