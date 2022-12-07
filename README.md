@@ -64,7 +64,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 * [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
-
+* [Query.me](https://query.me) -  Collaborative data notebooks that allow querying in SQL, API and other custom blocks to create smart reporting workflows. `©` `SaaS`
 ## Real-time
 
 * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
