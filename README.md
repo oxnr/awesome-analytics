@@ -14,8 +14,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
     - [Heatmap analytics](#heatmap-analytics)
     - [Analytics layers](#analytics-layers)
     - [Mobile analytics](#mobile-analytics)
+    - [Mobile attribution](#mobile-attribution)
     - [App store analytics](#app-store-analytics)
-    - [Attribution tracking](#attribution-tracking)
     - [Social media analytics](#social-media-analytics)
     - [Analytics dashboards](#analytics-dashboards)
     - [Developer analytics](#developer-analytics)
@@ -119,7 +119,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 The tools listed here are not necessarily mobile analytics tools only. However they show a strong mobile focus.
 
 * [Upsight](http://www.upsight.com/) - mobile app analytics tool for developers. `©` `SaaS`
-* [Appsflyer](http://www.appsflyer.com/) - all-in-one marketing tool with analytics. `©` `SaaS`
+* [AppsFlyer](https://appsflyer.com/) - all-in-one marketing tool with analytics. `©` `SaaS`
 * [Amazon Pinpoint](https://aws.amazon.com/pinpoint/) - Amazons multi-platform, basic mobile analytics tool. `©` `SaaS`
 * [Tapstream](https://tapstream.com/) - user lifecycle analytics. `©` `SaaS`
 * [Honeytracks](https://honeytracks.com/) - mobile app analytics for games. `©` `SaaS`
@@ -139,6 +139,15 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS `©` `SaaS`
 * [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push. `©` `SaaS`
 
+## Mobile attribution
+
+* [AppsFlyer](https://appsflyer.com) - all-in-one marketing tool with analytics. `©` `SaaS`
+* [Branch](https://branch.io) - mobile linking and attribution. `©` `SaaS`
+* [Adjust](http://adjust.com) - open-source SDK with sophisticated analysis and campaign tracking. `©` `SaaS`
+* [Singular](https://singular.net) - marketing analytics and attribution. `©` `SaaS`
+* [Tenjin](https://tenjin.com) - all-in-one growth Analytics suite. `©` `SaaS`
+* [Advents](https://advents.io) - first-class user experience mobile attribution platform. `©` `SaaS`
+
 ## App store analytics
 
 * [Appfigures](http://appfigures.com/) - app store analytics to track sales, reviews and rankings with an API. `©` `SaaS`
@@ -147,12 +156,6 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Priori Data](https://prioridata.com/) - track and benchmark the performance of apps on Apple- and Play store. `©` `SaaS`
 * [Asking Point](http://www.askingpoint.com/mobile-app-rating-widget) - track your mobile app user ratings. `©` `SaaS`
 * [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform. `©` `SaaS`
-
-## Attribution tracking
-
-* [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking. `©` `SaaS`
-* [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
-* [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
 
 ## Social media analytics
 
