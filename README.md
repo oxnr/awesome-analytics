@@ -67,6 +67,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Deepnote](https://deepnote.com/) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams. ([GitHub](https://github.com/deepnote/deepnote)) `Apache-2.0` `©` `SaaS` `TypeScript`
 * [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
+* [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+
   
 
 ## Real-time
