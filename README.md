@@ -92,7 +92,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 ## Privacy focused analytics
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users `©` `SaaS`
-* [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
+* [Fathom Lite](https://github.com/usefathom/fathom) - Fathom Lite, a lightweight version of Fathom Analytics `MIT` `Self-Hosted`
+* [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 * [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers `©` `SaaS`
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics `©` `SaaS`
@@ -106,6 +107,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 * [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source. ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)) `MIT` `Nodejs`
 * [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
+* [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. ([Source](https://github.com/arp242/goatcounter), [Demo](https://stats.arp242.net/)) `MIT` `SaaS` `Self-Hosted`
 * [Rybbit Analytics](https://rybbit.com/) - Rybbit is powerful, lightweight, and super easy to use analytics. Cookieless and GDPR compliant. Hosted on EU infrastructure in Germany. Self-hosting compatible `©` `SaaS` `self-hosted` `EU` 
 
 ## Heatmap analytics
