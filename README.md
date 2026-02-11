@@ -176,13 +176,14 @@ Often there is no clear differentiation between social media management and anal
 
 ## Developer analytics
 
-* [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
+* [BitDive](https://bitdive.io/) - APM for Java/Kotlin with distributed tracing, runtime profiling, service maps, and performance metrics. `©` `SaaS`
+* [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 * [Hatica](https://www.hatica.io/) - Engineering Analytics to boost developer productivity `©` `SaaS`
 * [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams `©` `SaaS`
-* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
-* [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
-* [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
 * [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
+* [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
+* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
+* [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
 
 ## Analytics dashboards
 
