@@ -150,6 +150,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging `©` `SaaS`
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS `©` `SaaS`
 * [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push. `©` `SaaS`
+* [Respectlytics](https://respectlytics.com) - Privacy-first mobile app analytics. GDPR/CCPA-friendly by architecture, open-source. `©` `SaaS`
 
 ## App store analytics
 
