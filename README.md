@@ -87,6 +87,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## SEO
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+* [Redirect Checker](https://github.com/brancogao/redirect-checker) - HTTP redirect chain analyzer for SEO auditing. Detects redirect loops, measures performance, supports multiple User-Agents including Googlebot. ([Demo](https://redirect-checker.autocompany.workers.dev/)) `MIT` `TypeScript/Cloudflare Workers`
 
 ## Privacy focused analytics
 
