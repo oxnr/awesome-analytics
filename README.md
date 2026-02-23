@@ -68,6 +68,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU` 
 
   
 
@@ -79,6 +80,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 * [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code](https://github.com/umami-software/umami)) `MIT` `JavaScript`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## Endpoints
 * [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
@@ -109,6 +111,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. ([Source](https://github.com/arp242/goatcounter), [Demo](https://stats.arp242.net/)) `MIT` `SaaS` `Self-Hosted`
 * [Rybbit Analytics](https://rybbit.com/) - Rybbit is powerful, lightweight, and super easy to use analytics. Cookieless and GDPR compliant. Hosted on EU infrastructure in Germany. Self-hosting compatible `©` `SaaS` `self-hosted` `EU`
 * [Clickport](https://clickport.io/) - Privacy-first web analytics without cookies. GDPR compliant, EU-hosted, with session tracking, goals, and real-time dashboard. `©` `SaaS` `EU`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## Heatmap analytics
 
@@ -149,6 +152,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging `©` `SaaS`
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS `©` `SaaS`
 * [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push. `©` `SaaS`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## App store analytics
 
