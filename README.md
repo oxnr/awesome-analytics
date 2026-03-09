@@ -177,6 +177,7 @@ Often there is no clear differentiation between social media management and anal
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking. `©` `SaaS`
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord. `©` `SaaS`
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
+* [Xquik](https://xquik.com) - Real-time X (Twitter) analytics platform with tweet search, engagement metrics (likes, retweets, replies, views, bookmarks), follower/following extraction, account monitoring, trending topics, and giveaway draws. REST API with 76 endpoints. `©` `TypeScript`
 
 ## Developer analytics
 
