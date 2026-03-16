@@ -87,6 +87,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## SEO
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+* [Rank4AI](https://rank4ai.co.uk) - AI search visibility platform for tracking and optimizing how businesses appear in AI-generated answers across ChatGPT, Gemini, Perplexity and Google AI Overviews. `©` `SaaS`
 
 ## Privacy focused analytics
 
