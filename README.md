@@ -176,6 +176,7 @@ Often there is no clear differentiation between social media management and anal
 * [Topsy](http://topsy.com/) - Social analytics tool with search. `©` `SaaS`
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking. `©` `SaaS`
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord. `©` `SaaS`
+* [SocialBu](https://socialbu.com/) - AI-powered social media management and analytics platform with scheduling, monitoring, and automation. `©` `SaaS`
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
 
 ## Developer analytics
