@@ -68,8 +68,9 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+* [StackData](https://greg-rg-git.github.io/stackdata-store/tools/compare/) - Free SaaS pricing comparison tool with data on 800+ tools across 15 categories; structured CSV datasets available for bulk analysis. `©` `SaaS`
 
-  
+
 
 ## Real-time
 
