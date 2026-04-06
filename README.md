@@ -21,6 +21,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
     - [Developer analytics](#developer-analytics)
     
 - [Other Awesome Lists](#other-awesome-lists)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for analytics workflow orchestration, automated data pipeline management, and multi-agent coordination. MIT licensed.
 
 ## General analytics
 * [UXWizz](https://www.uxwizz.com/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
