@@ -65,6 +65,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 * [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 * [Deepnote](https://deepnote.com/) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams. ([GitHub](https://github.com/deepnote/deepnote)) `Apache-2.0` `©` `SaaS` `TypeScript`
+* [DataSpoc Lens](https://github.com/dataspoclab/dataspoc-lens) - Virtual warehouse over cloud Parquet (S3/GCS/Azure). SQL shell, Jupyter/Marimo notebooks, AI natural language queries, and local cache. ([Source Code](https://github.com/dataspoclab/dataspoc-lens)) `Apache-2.0` `Python`
 * [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
