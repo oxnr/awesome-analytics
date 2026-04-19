@@ -53,6 +53,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Sitemeter](http://sitemeter.com/) - old analytics tool. `©` `SaaS`
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool. `©` `SaaS`
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing. `©` `SaaS`
+* [ExperimentFlow](https://experimentflow.com) - A/B testing and AI personalisation platform. Features neural bandits, lightweight SDK, privacy-first (no cookies, no PII). Google Optimize alternative. `©` `SaaS`
 * [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io) - session replay user analytics. `©` `SaaS`
