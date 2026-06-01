@@ -45,6 +45,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool. `©` `SaaS`
 * [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with heavy emphasis on segmentation and funnel visualization. `©` `SaaS`
 * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
+* [OneQuery](https://github.com/wordbricks/onequery) - Self-hosted data access gateway for databases, analytics tools, and APIs, with centralized credentials, read-only query validation, query limits, and audit logs. `Apache-2.0` `Self-Hosted` `Rust`
 * [Statcounter](https://statcounter.com/) - one of the ORIGINAL web analytics tools available. `©` `SaaS`
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use. `©` `SaaS`
 * [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation. `©` `SaaS`
