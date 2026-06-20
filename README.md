@@ -109,6 +109,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. ([Source](https://github.com/arp242/goatcounter), [Demo](https://stats.arp242.net/)) `MIT` `SaaS` `Self-Hosted`
 * [Rybbit Analytics](https://rybbit.com/) - Rybbit is powerful, lightweight, and super easy to use analytics. Cookieless and GDPR compliant. Hosted on EU infrastructure in Germany. Self-hosting compatible `©` `SaaS` `self-hosted` `EU`
 * [Clickport](https://clickport.io/) - Privacy-first web analytics without cookies. GDPR compliant, EU-hosted, with session tracking, goals, and real-time dashboard. `©` `SaaS` `EU`
+* [FeedPulse](https://feed-pulse.com) — Free SEO checker + embeddable widget suite for indie sites. 13 SEO tools (DA, DR, SERP, schema, AI audit) + 18 widgets (live traffic, flag counter, weather, GitHub stars). No signup, no paid tier. `©` `SaaS`
 
 ## Heatmap analytics
 
