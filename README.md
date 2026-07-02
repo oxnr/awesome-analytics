@@ -153,6 +153,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 ## App store analytics
 
 * [Appfigures](http://appfigures.com/) - app store analytics to track sales, reviews and rankings with an API. `©` `SaaS`
+* [GetAppNiche](https://getappniche.com/) - app store intelligence for indie iOS founders with revenue estimates, downloads, ASO keywords, ads and reviews. `©` `SaaS`
 * [Appannie](http://www.appannie.com/) - track your app data from iTunes, Google Play & Amazon. `©` `SaaS`
 * [Distimo](http://www.distimo.com/) - free app store analytics (acquired by [Appannie](http://www.appannie.com/)). `©` `SaaS`
 * [Priori Data](https://prioridata.com/) - track and benchmark the performance of apps on Apple- and Play store. `©` `SaaS`
