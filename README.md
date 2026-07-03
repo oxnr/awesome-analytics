@@ -68,6 +68,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+* [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
   
 
