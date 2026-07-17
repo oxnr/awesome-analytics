@@ -175,6 +175,7 @@ Often there is no clear differentiation between social media management and anal
 * [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform. `©` `SaaS`
 * [Topsy](http://topsy.com/) - Social analytics tool with search. `©` `SaaS`
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking. `©` `SaaS`
+* [Open Channel Stats](https://openchannelstats.com) - Browse real YouTube channels' full owner analytics — retention, CTR, traffic sources — published by the creators themselves, not estimated; connect your own free to compare. Daily refresh; each public channel exports as a documented SQLite file. `©` `SaaS`
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord. `©` `SaaS`
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
 
