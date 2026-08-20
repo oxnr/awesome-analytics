@@ -158,6 +158,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Priori Data](https://prioridata.com/) - track and benchmark the performance of apps on Apple- and Play store. `©` `SaaS`
 * [Asking Point](http://www.askingpoint.com/mobile-app-rating-widget) - track your mobile app user ratings. `©` `SaaS`
 * [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform. `©` `SaaS`
+* [AdMapix](https://www.admapix.com/) - AI ad intelligence and app market research platform for searching competitor creatives and tracking app rankings, downloads, and revenue across markets. `©` `SaaS`
 
 ## Attribution tracking
 
