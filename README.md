@@ -96,6 +96,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers `©` `SaaS`
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics `©` `SaaS`
 * [Metrical](https://metrical.xyz/) - A privacy-first web analytics tool for everyone. `©` `SaaS`
+* [Stomatopod](https://stoma.top) - Privacy-friendly, cookieless self-hosted web analytics. Single binary, embedded storage, no external DB. ([Source Code](https://github.com/kkir/stomatopod)) `MIT` `Rust/Docker`
 * [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
 * [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami)) `MIT` `Nodejs`
 * [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
