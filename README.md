@@ -163,6 +163,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 
 * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking. `©` `SaaS`
 * [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
+* [ClickTrail](https://www.npmjs.com/package/@vizuh/clicktrail) - Deterministic first-party attribution engine for UTMs, ad click IDs, referrers, and first/last touch. ([Source Code](https://github.com/vizuh/clicktrail-js)) `MIT` `TypeScript`
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
 
 ## Social media analytics
