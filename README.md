@@ -54,6 +54,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool. `©` `SaaS`
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing. `©` `SaaS`
 * [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
+* [SensorFlow](https://sensorflow.site/) - Self-hosted event analytics pipeline with SDK-compatible ingestion, ClickHouse storage, and Apache Superset dashboards. ([Source Code](https://github.com/data-analyze-bi/sensorFlow)) `Apache-2.0` `Go`
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io) - session replay user analytics. `©` `SaaS`
 * [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics. `©` `SaaS`
