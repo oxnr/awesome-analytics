@@ -87,6 +87,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## SEO
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+* [GeoBuddy](https://geobuddy.co/) - AI search analytics: tracks whether ChatGPT, Claude, Gemini and Perplexity mention your brand, with rank, share of voice and competitor tracking; free check without signup.
 
 ## Privacy focused analytics
 
