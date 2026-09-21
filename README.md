@@ -68,6 +68,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+* [HTMLRadar](https://htmlradar.com) - Open-source read tracking for HTML decks, proposals, and reports: section-level dwell, active time, scroll depth, and repeat visits. ([Source Code](https://github.com/htmlradar/htmlradar)) `AGPL-3.0` `TypeScript`
 
   
 
