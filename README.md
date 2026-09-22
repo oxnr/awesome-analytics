@@ -23,6 +23,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
+* [App Health](https://health.sassmaker.com) - Web analytics, product events, intentional logs and endpoint health in one workspace. ([Source Code](https://github.com/sass-maker/app-health)) `MIT` `SaaS` `TypeScript`
 * [UXWizz](https://www.uxwizz.com/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
 * [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
