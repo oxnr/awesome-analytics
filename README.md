@@ -173,6 +173,7 @@ Often there is no clear differentiation between social media management and anal
 * [Falconsocial](http://www.falconsocial.com/) - communications platform built on social media with analytics. `©` `SaaS`
 * [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance. `©` `SaaS`
 * [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform. `©` `SaaS`
+* [SocialRoster](https://socialroster.dev/) - Social media scheduling and publishing for TikTok, Instagram, YouTube, and Facebook. `©` `SaaS`
 * [Topsy](http://topsy.com/) - Social analytics tool with search. `©` `SaaS`
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking. `©` `SaaS`
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord. `©` `SaaS`
