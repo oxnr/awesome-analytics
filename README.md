@@ -177,6 +177,7 @@ Often there is no clear differentiation between social media management and anal
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking. `©` `SaaS`
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord. `©` `SaaS`
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
+* [Koveto-Vasarlas Engagement Rate Calculator (Hungarian)](https://koveto-vasarlas.hu/tools/engagement-rate) - Free manual calculator for likes plus comments as a percentage of followers, reach, or views; no account or profile lookup.
 
 ## Developer analytics
 
