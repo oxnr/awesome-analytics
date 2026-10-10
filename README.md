@@ -115,6 +115,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analytics tool. `©` `SaaS`
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool. `©` `SaaS`
 * [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps. `©` `SaaS`
+* [Hoot Lens](https://hootlens.com/) - session replay, click heatmaps by device class and broken-click detection, readable by AI coding agents over MCP. `©` `SaaS`
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool. `©` `SaaS`
 
 ## Analytics layers
