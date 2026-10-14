@@ -164,6 +164,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking. `©` `SaaS`
 * [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
+* [WhichPost](https://whichpost.app/?utm_source=github&utm_medium=listing&utm_campaign=seo-backlinks&utm_content=awesome-analytics) - See which creator posts brought paying customers, from a read-only Stripe or RevenueCat connection, with a range on every result. `©` `SaaS`
 
 ## Social media analytics
 
