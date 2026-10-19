@@ -79,6 +79,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 * [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code](https://github.com/umami-software/umami)) `MIT` `JavaScript`
+* [Vectr4](https://vectr4.com/) - Self-hosted web analytics with funnels, SEO keyword checker and more. `©` `Self-Hosted` `Docker`
 
 ## Endpoints
 * [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
