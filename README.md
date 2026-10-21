@@ -243,6 +243,7 @@ Often there is no clear differentiation between social media management and anal
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 * [DAC](https://getbruin.com/docs/dac/) - dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer for metrics and dimensions. ([Source Code](https://github.com/bruin-data/dac)) `AGPL-3.0` `Go` `Self-Hosted`
 - [AppRankly](https://github.com/zmsp/AppRankly) - Self-hosted dashboard bringing together iOS App Store Connect and Google Play Console metrics.
+* [DataHub Pro](https://www.datahubpro.co.uk/) - AI analytics for spreadsheets: turn an Excel or CSV file into dashboards, forecasts and reports, with an audit trail for every number. Built for small teams without a data engineer. `SaaS`
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
