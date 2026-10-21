@@ -100,6 +100,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Vaneform](https://vaneform.com/) - Free website traffic lookup: estimated monthly visits, traffic sources, top countries, search keywords and similar sites for any domain, no signup required. `©` `SaaS`
 
 * [SiteData](https://sitedata.dev/) - website traffic estimation, reverse AdSense lookup, Google Ads advertiser analysis, and Domain Rating lookup. `©` `SaaS`
+* [GeoBuddy](https://geobuddy.co/) - AI search analytics: tracks whether ChatGPT, Claude, Gemini and Perplexity mention your brand, with rank, share of voice and competitor tracking; free check without signup.
 
 ## Privacy focused analytics
 
