@@ -4,6 +4,8 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 
 Your feedback and contributions are always welcome! Maintained by [@onurakpolat](https://github.com/onurakpolat) & [@koconder](https://github.com/koconder)
 
+Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting options.
+
 - [Awesome Analytics](#awesome-analytics)
     - [General analytics](#general-analytics)
     - [Real-time](#real-time)
@@ -80,7 +82,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Replayowl](https://replayowl.com/) - Open source, self-hosted session replay that runs on Cloudflare Workers or Node. ([Source Code](https://github.com/replayowl/replayowl)) `AGPL-3.0` `TypeScript`
 * [Zoho Apptics](https://www.zoho.com/apptics) – Cross-platfom analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps.
 * [rrweb](https://rrweb.com) - Open-source session replay library for the browser. Records the DOM and user interactions and replays them pixel-perfect. ([Source Code](https://github.com/rrweb-io/rrweb)) `MIT` `TypeScript`
-* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU` 
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU` 
 
   
 
@@ -97,7 +99,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 * [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code](https://github.com/umami-software/umami)) `MIT` `JavaScript`
 * [Vectr4](https://vectr4.com/) - Self-hosted web analytics with funnels and more. `©` `Self-Hosted` `Docker`
-* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
 
 ## Endpoints
 **[`^        back to top        ^`](#)**
@@ -138,10 +140,10 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
 * [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 * [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source. ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)) `MIT` `Nodejs`
-* [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
+* [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `Self-Hosted`
 * [Swetrix](https://swetrix.com/) - European OSS product & web analytics, ([Source Code](https://github.com/swetrix/swetrix)) `MIT`/`AGPL-3.0` `NodeJS`
 * [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. ([Source](https://github.com/arp242/goatcounter), [Demo](https://stats.arp242.net/)) `MIT` `SaaS` `Self-Hosted`
-* [Rybbit Analytics](https://rybbit.com/) - Rybbit is powerful, lightweight, and super easy to use analytics. Cookieless and GDPR compliant. Hosted on EU infrastructure in Germany. Self-hosting compatible `©` `SaaS` `self-hosted` `EU`
+* [Rybbit Analytics](https://rybbit.com/) - Rybbit is powerful, lightweight, and super easy to use analytics. Cookieless and GDPR compliant. Hosted on EU infrastructure in Germany. Self-hosting compatible `©` `SaaS` `Self-Hosted` `EU`
 * [Clickport](https://clickport.io/) - Privacy-first web analytics without cookies. GDPR compliant, EU-hosted, with session tracking, goals, and real-time dashboard. `©` `SaaS` `EU`
 * [Lupa](https://getlupa.ru/) - Cookie-free web analytics in a single Go binary with ClickHouse. No stored IPs, daily-rotating visitor hash, goals, funnels, realtime, click heatmaps and session replay with masked inputs. ([Demo](https://demo.getlupa.ru/), [Source Code](https://github.com/cutover-team/lupa)) `AGPL-3.0` `Go` `Self-Hosted`
 * [PageLens](https://pagelens.io/) - Cookieless, EU-hosted web analytics with revenue by traffic source and AI Visibility: which pages ChatGPT, Claude and Perplexity read, use in answers and send visitors to. ([Demo](https://pagelens.io/demo)) `©` `SaaS` `EU`
@@ -153,8 +155,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Ucoder Insight](https://insights.ucoder.in) - Privacy-first, cookie-free web analytics SDK for developers. 7.4kb gzipped, zero dependencies, offline support via IndexDB. ([Source Code](https://github.com/soumydip/ucoder_insight_core)) `MIT` `JavaScript`
 * [Beam](https://beam-privacy.com/) - Lightweight, cookie-free web analytics on Cloudflare Workers and D1. No cookies, no fingerprinting, GDPR-compliant by design. Free tier included. ([Source Code](https://github.com/scobb/beam.js)) `©` `SaaS`
 * [Measure.events](https://measure.events) - Privacy-first web analytics with an agent-native API, MCP server, and natural language summaries. Built for AI-forward teams. `©` `SaaS`
-* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
-* [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `self-hosted` `Go/Docker`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
+* [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `Self-Hosted` `Go/Docker`
 
 ## Heatmap analytics
 **[`^        back to top        ^`](#)**
@@ -200,7 +202,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging `©` `SaaS`
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS `©` `SaaS`
 * [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push. `©` `SaaS`
-* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
 
 ## App store analytics
 **[`^        back to top        ^`](#)**
@@ -254,12 +256,12 @@ Often there is no clear differentiation between social media management and anal
 * [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams `©` `SaaS`
 * [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 * [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
-* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
 * [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
 
 ## Analytics dashboards
 **[`^        back to top        ^`](#)**
 
+* [DataPallas](https://github.com/flowkraft/datapallas) - Business intelligence platform with interactive dashboards, pivot tables and pixel-perfect report generation. `SSPL-1.0` `Source Available`
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
 * [Geckoboard](https://www.geckoboard.com/) - dashboard for key metrics in one place. `©` `SaaS`
 * [GoatCounter Dashboard](https://github.com/abhishekhsingh/goatcounter-dashboard) - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step, no server. ([Demo](https://abhishekhsingh.github.io/goatcounter-dashboard), [Source Code](https://github.com/abhishekhsingh/goatcounter-dashboard)) `MIT` `JavaScript`
