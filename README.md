@@ -110,6 +110,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 **[`^        back to top        ^`](#)**
 * [AuditorIA](https://landing-five-dusky-44.vercel.app) - Free automated SEO audit for local businesses. Detects HTTPS, meta tags, Schema markup, viewport, and phone visibility in 30 seconds. No registration required. `©` `SaaS`
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+* [FeedPulse](https://feed-pulse.com) - Free SEO checkers: domain authority, domain rating, SERP position, Google index status, page speed, plus a schema generator. Also serves embeddable traffic and visitor-country widgets. No signup, no paid tier. `©` `SaaS`
 * [Vaneform](https://vaneform.com/) - Free website traffic lookup: estimated monthly visits, traffic sources, top countries, search keywords and similar sites for any domain, no signup required. `©` `SaaS`
 
 * [SiteData](https://sitedata.dev/) - website traffic estimation, reverse AdSense lookup, Google Ads advertiser analysis, and Domain Rating lookup. `©` `SaaS`
