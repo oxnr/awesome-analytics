@@ -215,6 +215,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
 * [ClickTrail](https://www.npmjs.com/package/@vizuh/clicktrail) - Deterministic first-party attribution engine for UTMs, ad click IDs, referrers, and first/last touch. ([Source Code](https://github.com/vizuh/clicktrail-js)) `MIT` `TypeScript`
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
+* [WhichPost](https://whichpost.app/) - See which creator posts brought paying customers, from a read-only Stripe or RevenueCat connection, with a range on every result. `©` `SaaS`
 * [Virling](https://github.com/virling/virling) - open-source revenue attribution that ties each visit to the Stripe, Dodo Payments or Polar payment that followed. `AGPL-3.0` `Self-Hosted`
 * [OneLence](https://onelence.com/) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates. `©` `SaaS`
 * [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
