@@ -137,6 +137,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Statable](https://statable.com/) - Privacy-first, cookieless web analytics hosted in the EU. Import your Google Analytics 4 history and keep a unified timeline. `©` `SaaS` `EU`
 * [Facet](https://github.com/writerslogic/facet) - Cookieless, privacy-first web analytics & experimentation that runs entirely on the Cloudflare edge (Workers + D1). No cookies, no cross-session identity, raw IP is never stored; GPC/DNT respecting and self-hosted with a one-command deploy. `AGPL-3.0` `Cloudflare Workers`
 * [Ucoder Insight](https://insights.ucoder.in) - Privacy-first, cookie-free web analytics SDK for developers. 7.4kb gzipped, zero dependencies, offline support via IndexDB. ([Source Code](https://github.com/soumydip/ucoder_insight_core)) `MIT` `JavaScript`
+* [Beam](https://beam-privacy.com/) - Lightweight, cookie-free web analytics on Cloudflare Workers and D1. No cookies, no fingerprinting, GDPR-compliant by design. Free tier included. ([Source Code](https://github.com/scobb/beam.js)) `©` `SaaS`
 
 ## Heatmap analytics
 
