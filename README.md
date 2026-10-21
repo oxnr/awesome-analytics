@@ -76,6 +76,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Replayowl](https://replayowl.com/) - Open source, self-hosted session replay that runs on Cloudflare Workers or Node. ([Source Code](https://github.com/replayowl/replayowl)) `AGPL-3.0` `TypeScript`
 * [Zoho Apptics](https://www.zoho.com/apptics) – Cross-platfom analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps.
 * [rrweb](https://rrweb.com) - Open-source session replay library for the browser. Records the DOM and user interactions and replays them pixel-perfect. ([Source Code](https://github.com/rrweb-io/rrweb)) `MIT` `TypeScript`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU` 
 
   
 
@@ -89,6 +90,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 * [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code](https://github.com/umami-software/umami)) `MIT` `JavaScript`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## Endpoints
 * [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
@@ -139,6 +141,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Ucoder Insight](https://insights.ucoder.in) - Privacy-first, cookie-free web analytics SDK for developers. 7.4kb gzipped, zero dependencies, offline support via IndexDB. ([Source Code](https://github.com/soumydip/ucoder_insight_core)) `MIT` `JavaScript`
 * [Beam](https://beam-privacy.com/) - Lightweight, cookie-free web analytics on Cloudflare Workers and D1. No cookies, no fingerprinting, GDPR-compliant by design. Free tier included. ([Source Code](https://github.com/scobb/beam.js)) `©` `SaaS`
 * [Measure.events](https://measure.events) - Privacy-first web analytics with an agent-native API, MCP server, and natural language summaries. Built for AI-forward teams. `©` `SaaS`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## Heatmap analytics
 
@@ -181,6 +184,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Swrve](https://swrve.com) - mobile analytics with segmentation, push, A/B testing and rich messaging `©` `SaaS`
 * [Firebase](https://firebase.google.com/features/) - a free and unlimited analytics solution for android and iOS `©` `SaaS`
 * [Liquid](https://onliquid.com/) - real-time mobile analytics, personalization, multivariate testing, audience segmentation and push. `©` `SaaS`
+* [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## App store analytics
 
