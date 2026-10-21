@@ -75,6 +75,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+* [StackData](https://greg-rg-git.github.io/stackdata-store/tools/compare/) - Free SaaS pricing comparison tool with pricing data; structured CSV datasets available for bulk analysis. `©` `SaaS`
 * [Klinky](https://klinky.io) - A/B testing link shortener that splits one link between two destinations, with click counts. `©` `SaaS`
 * [Replayowl](https://replayowl.com/) - Open source, self-hosted session replay that runs on Cloudflare Workers or Node. ([Source Code](https://github.com/replayowl/replayowl)) `AGPL-3.0` `TypeScript`
 * [Zoho Apptics](https://www.zoho.com/apptics) – Cross-platfom analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps.
