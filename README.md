@@ -127,6 +127,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Lupa](https://getlupa.ru/) - Cookie-free web analytics in a single Go binary with ClickHouse. No stored IPs, daily-rotating visitor hash, goals, funnels, realtime, click heatmaps and session replay with masked inputs. ([Demo](https://demo.getlupa.ru/), [Source Code](https://github.com/cutover-team/lupa)) `AGPL-3.0` `Go` `Self-Hosted`
 * [PageLens](https://pagelens.io/) - Cookieless, EU-hosted web analytics with revenue by traffic source and AI Visibility: which pages ChatGPT, Claude and Perplexity read, use in answers and send visitors to. ([Demo](https://pagelens.io/demo)) `©` `SaaS` `EU`
 * [Lomen](https://lomenanalytics.com/) - Cookie-free website analytics with an AI you can ask about your traffic, revenue from Stripe, Shopify, Lemon Squeezy and Polar next to visitors, and tracking of visits from ChatGPT, Claude and Perplexity. ([Demo](https://lomenanalytics.com/demo)) `©` `SaaS`
+* [measuremy.site](https://measuremy.site/) - Cookieless web analytics your AI agent can read: an MCP server lets Claude Code, Cursor and other agents install the script and answer traffic questions. ([Source Code](https://github.com/developeron29/measuremysite-mcp) for the self-hosted version) `©` `SaaS` `MIT` `Self-Hosted`
 
 ## Heatmap analytics
 
