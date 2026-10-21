@@ -197,6 +197,7 @@ Often there is no clear differentiation between social media management and anal
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking. `©` `SaaS`
 * [Open Channel Stats](https://openchannelstats.com) - Browse real YouTube channels' full owner analytics — retention, CTR, traffic sources — published by the creators themselves, not estimated; connect your own free to compare. Daily refresh; each public channel exports as a documented SQLite file. `©` `SaaS`
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord. `©` `SaaS`
+* [SocialBu](https://socialbu.com/) - AI-powered social media management and analytics platform with scheduling, monitoring, and automation. `©` `SaaS`
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
 * [AI TikTok Analyzer Pro](https://tiktok.poviai.com/) - TikTok content research: rank a creator's public videos by engagement, export comments, AI transcripts and sentiment analysis. `©` `SaaS`
 
