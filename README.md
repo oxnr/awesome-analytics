@@ -57,6 +57,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io) - session replay user analytics. `©` `SaaS`
 * [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics. `©` `SaaS`
+* [Sequential](https://www.usesequential.com/) - session replay and product analytics with an AI judge that reviews each session and lists the findings to fix. `©` `SaaS`
 * [Redash](https://redash.io/) - open source analytics/BI tool `©` `SaaS`
 * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 * [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
