@@ -218,3 +218,6 @@ Often there is no clear differentiation between social media management and anal
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+
+# Resources and Comparisons
+- [Analytics Compare](https://www.analytics-compare.com/tools/compare/) - An independent, interactive database comparing 30+ analytics tools based on features, hidden costs, and scalability risks.
