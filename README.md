@@ -75,6 +75,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
 * [Replayowl](https://replayowl.com/) - Open source, self-hosted session replay that runs on Cloudflare Workers or Node. ([Source Code](https://github.com/replayowl/replayowl)) `AGPL-3.0` `TypeScript`
 * [Zoho Apptics](https://www.zoho.com/apptics) – Cross-platfom analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps.
+* [rrweb](https://rrweb.com) - Open-source session replay library for the browser. Records the DOM and user interactions and replays them pixel-perfect. ([Source Code](https://github.com/rrweb-io/rrweb)) `MIT` `TypeScript`
 
   
 
