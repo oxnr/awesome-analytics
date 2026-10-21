@@ -198,6 +198,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
 * [Virling](https://github.com/virling/virling) - open-source revenue attribution that ties each visit to the Stripe, Dodo Payments or Polar payment that followed. `AGPL-3.0` `Self-Hosted`
 * [OneLence](https://onelence.com/) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates. `©` `SaaS`
+* [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
 
 ## Social media analytics
 
