@@ -126,6 +126,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Clickport](https://clickport.io/) - Privacy-first web analytics without cookies. GDPR compliant, EU-hosted, with session tracking, goals, and real-time dashboard. `©` `SaaS` `EU`
 * [Lupa](https://getlupa.ru/) - Cookie-free web analytics in a single Go binary with ClickHouse. No stored IPs, daily-rotating visitor hash, goals, funnels, realtime, click heatmaps and session replay with masked inputs. ([Demo](https://demo.getlupa.ru/), [Source Code](https://github.com/cutover-team/lupa)) `AGPL-3.0` `Go` `Self-Hosted`
 * [PageLens](https://pagelens.io/) - Cookieless, EU-hosted web analytics with revenue by traffic source and AI Visibility: which pages ChatGPT, Claude and Perplexity read, use in answers and send visitors to. ([Demo](https://pagelens.io/demo)) `©` `SaaS` `EU`
+* [Lomen](https://lomenanalytics.com/) - Cookie-free website analytics with an AI you can ask about your traffic, revenue from Stripe, Shopify, Lemon Squeezy and Polar next to visitors, and tracking of visits from ChatGPT, Claude and Perplexity. ([Demo](https://lomenanalytics.com/demo)) `©` `SaaS`
 
 ## Heatmap analytics
 
