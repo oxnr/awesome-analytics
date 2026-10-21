@@ -23,6 +23,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
+**[`^        back to top        ^`](#)**
 * [UXWizz](https://www.uxwizz.com/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
 * [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
@@ -81,24 +82,28 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
   
 
 ## Real-time
+**[`^        back to top        ^`](#)**
 
 * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 
 * [VisitorPing](https://visitorping.com/) - Live website visitor dashboard with iPhone notifications for incoming visits. `©` `SaaS`
 
 ## Website analytics
+**[`^        back to top        ^`](#)**
 
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 * [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code](https://github.com/umami-software/umami)) `MIT` `JavaScript`
 * [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## Endpoints
+**[`^        back to top        ^`](#)**
 * [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
 * [Rawbbit](https://rawbbit.one/) - Self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Designed for teams that want to own their raw event data instead of feeding it into a SaaS vendor's pipeline. Alternative to Firebase Analytics and Amplitude. ([Source Code](https://github.com/mirlan-irokez/rawbbit)) `Apache-2.0` `Python`
 * [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 * [Snowplow](http://snowplowanalytics.com/) - Analytics tool for web apps with a lot of data. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `real-time`
 
 ## SEO
+**[`^        back to top        ^`](#)**
 * [AuditorIA](https://landing-five-dusky-44.vercel.app) - Free automated SEO audit for local businesses. Detects HTTPS, meta tags, Schema markup, viewport, and phone visibility in 30 seconds. No registration required. `©` `SaaS`
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
 * [Vaneform](https://vaneform.com/) - Free website traffic lookup: estimated monthly visits, traffic sources, top countries, search keywords and similar sites for any domain, no signup required. `©` `SaaS`
@@ -109,6 +114,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code](https://github.com/nowork-studio/NotFair)) `MIT`
 
 ## Privacy focused analytics
+**[`^        back to top        ^`](#)**
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users `©` `SaaS`
 * [Fathom Lite](https://github.com/usefathom/fathom) - Fathom Lite, a lightweight version of Fathom Analytics `MIT` `Self-Hosted`
@@ -145,6 +151,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `self-hosted` `Go/Docker`
 
 ## Heatmap analytics
+**[`^        back to top        ^`](#)**
 
 * [Crazyegg](http://www.crazyegg.com/) - a heatmaps only analytics tool. `©` `SaaS`
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool. `©` `SaaS`
@@ -154,6 +161,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Lupa](https://getlupa.ru/) - Self-hosted click heatmaps rendered directly on your page (no iframe), top clicked elements and scroll depth, plus session replay. ([Demo](https://demo.getlupa.ru/), [Source Code](https://github.com/cutover-team/lupa)) `AGPL-3.0` `Go` `Self-Hosted`
 
 ## Analytics layers
+**[`^        back to top        ^`](#)**
 
 * [Keen.io](http://keen.io/) - custom-analytics API. `©` `SaaS`
 * [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms. `©` `SaaS`
@@ -162,6 +170,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Analytics npm package](https://getanalytics.io/) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users. Works in browsers & node.js. `©` `SaaS`
 
 ## Mobile analytics
+**[`^        back to top        ^`](#)**
 
 The tools listed here are not necessarily mobile analytics tools only. However they show a strong mobile focus.
 
@@ -188,6 +197,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
 
 ## App store analytics
+**[`^        back to top        ^`](#)**
 
 * [Appfigures](http://appfigures.com/) - app store analytics to track sales, reviews and rankings with an API. `©` `SaaS`
 * [Appannie](http://www.appannie.com/) - track your app data from iTunes, Google Play & Amazon. `©` `SaaS`
@@ -198,6 +208,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [AdMapix](https://www.admapix.com/) - AI ad intelligence and app market research platform for searching competitor creatives and tracking app rankings, downloads, and revenue across markets. `©` `SaaS`
 
 ## Attribution tracking
+**[`^        back to top        ^`](#)**
 
 * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking. `©` `SaaS`
 * [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
@@ -208,6 +219,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
 
 ## Social media analytics
+**[`^        back to top        ^`](#)**
 
 Often there is no clear differentiation between social media management and analytics as most the tools provide analytics.
 
@@ -224,6 +236,7 @@ Often there is no clear differentiation between social media management and anal
 * [AI TikTok Analyzer Pro](https://tiktok.poviai.com/) - TikTok content research: rank a creator's public videos by engagement, export comments, AI transcripts and sentiment analysis. `©` `SaaS`
 
 ## Developer analytics
+**[`^        back to top        ^`](#)**
 
 * [BitDive](https://bitdive.io/) - APM for Java/Kotlin with distributed tracing, runtime profiling, service maps, and performance metrics. `©` `SaaS`
 * [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
@@ -237,6 +250,7 @@ Often there is no clear differentiation between social media management and anal
 * [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
 
 ## Analytics dashboards
+**[`^        back to top        ^`](#)**
 
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
 * [Geckoboard](https://www.geckoboard.com/) - dashboard for key metrics in one place. `©` `SaaS`
