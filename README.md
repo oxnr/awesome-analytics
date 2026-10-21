@@ -125,6 +125,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Rybbit Analytics](https://rybbit.com/) - Rybbit is powerful, lightweight, and super easy to use analytics. Cookieless and GDPR compliant. Hosted on EU infrastructure in Germany. Self-hosting compatible `©` `SaaS` `self-hosted` `EU`
 * [Clickport](https://clickport.io/) - Privacy-first web analytics without cookies. GDPR compliant, EU-hosted, with session tracking, goals, and real-time dashboard. `©` `SaaS` `EU`
 * [Lupa](https://getlupa.ru/) - Cookie-free web analytics in a single Go binary with ClickHouse. No stored IPs, daily-rotating visitor hash, goals, funnels, realtime, click heatmaps and session replay with masked inputs. ([Demo](https://demo.getlupa.ru/), [Source Code](https://github.com/cutover-team/lupa)) `AGPL-3.0` `Go` `Self-Hosted`
+* [PageLens](https://pagelens.io/) - Cookieless, EU-hosted web analytics with revenue by traffic source and AI Visibility: which pages ChatGPT, Claude and Perplexity read, use in answers and send visitors to. ([Demo](https://pagelens.io/demo)) `©` `SaaS` `EU`
 
 ## Heatmap analytics
 
