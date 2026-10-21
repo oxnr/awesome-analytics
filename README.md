@@ -101,6 +101,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 * [SiteData](https://sitedata.dev/) - website traffic estimation, reverse AdSense lookup, Google Ads advertiser analysis, and Domain Rating lookup. `©` `SaaS`
 * [GeoBuddy](https://geobuddy.co/) - AI search analytics: tracks whether ChatGPT, Claude, Gemini and Perplexity mention your brand, with rank, share of voice and competitor tracking; free check without signup.
+* [LLM Pulse](https://llmpulse.ai/) - AI search analytics for tracking brand mentions, citations, sentiment, and competitor share of voice across ChatGPT, Perplexity, Gemini, Google AI Overviews, and Google AI Mode. `©` `SaaS`
 
 ## Privacy focused analytics
 
