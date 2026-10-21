@@ -131,6 +131,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Lomen](https://lomenanalytics.com/) - Cookie-free website analytics with an AI you can ask about your traffic, revenue from Stripe, Shopify, Lemon Squeezy and Polar next to visitors, and tracking of visits from ChatGPT, Claude and Perplexity. ([Demo](https://lomenanalytics.com/demo)) `©` `SaaS`
 * [measuremy.site](https://measuremy.site/) - Cookieless web analytics your AI agent can read: an MCP server lets Claude Code, Cursor and other agents install the script and answer traffic questions. ([Source Code](https://github.com/developeron29/measuremysite-mcp) for the self-hosted version) `©` `SaaS` `MIT` `Self-Hosted`
 * [DevDome Analytics](https://devdome.com/) - Cookieless analytics for WordPress that separates human visitors from bots and AI crawlers. Free plan. ([Plugin Source Code](https://github.com/DevDomeFamily/devdome-analytics)) `GPL-2.0` `SaaS`
+* [Statable](https://statable.com/) - Privacy-first, cookieless web analytics hosted in the EU. Import your Google Analytics 4 history and keep a unified timeline. `©` `SaaS` `EU`
 
 ## Heatmap analytics
 
