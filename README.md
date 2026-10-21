@@ -142,6 +142,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Beam](https://beam-privacy.com/) - Lightweight, cookie-free web analytics on Cloudflare Workers and D1. No cookies, no fingerprinting, GDPR-compliant by design. Free tier included. ([Source Code](https://github.com/scobb/beam.js)) `©` `SaaS`
 * [Measure.events](https://measure.events) - Privacy-first web analytics with an agent-native API, MCP server, and natural language summaries. Built for AI-forward teams. `©` `SaaS`
 * [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `self-hosted` `EU`
+* [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `self-hosted` `Go/Docker`
 
 ## Heatmap analytics
 
