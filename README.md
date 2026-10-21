@@ -74,6 +74,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Superset-Datafusion](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
 * [Replayowl](https://replayowl.com/) - Open source, self-hosted session replay that runs on Cloudflare Workers or Node. ([Source Code](https://github.com/replayowl/replayowl)) `AGPL-3.0` `TypeScript`
+* [Zoho Apptics](https://www.zoho.com/apptics) – Cross-platfom analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps.
 
   
 
