@@ -34,6 +34,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors. `©` `SaaS`
 * [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
 * [Heap](https://heap.io) - tracks your app users, clicks, form submissions, and anything else. `©` `SaaS`
+* [Privatrak](https://privatrak.com/) - Cookieless product analytics with visual event tracking, conversion funnels, and custom dashboards. `©` `SaaS`
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking. `©` `SaaS`
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities. `©` `SaaS`
 * [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - web data into insights that everyone can act on. `©` `SaaS`
