@@ -182,6 +182,7 @@ Often there is no clear differentiation between social media management and anal
 
 * [BitDive](https://bitdive.io/) - APM for Java/Kotlin with distributed tracing, runtime profiling, service maps, and performance metrics. `©` `SaaS`
 * [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
+* [Dev Ledger](https://devledger.site/) - Open-source GitHub analytics for developers — longitudinal development history across repositories: source growth, churn, activity, languages, and releases. ([Source Code](https://github.com/Aliferous3/dev-ledger)) `AGPL-3.0` `SaaS`
 * [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 * [Hatica](https://www.hatica.io/) - Engineering Analytics to boost developer productivity `©` `SaaS`
 * [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams `©` `SaaS`
