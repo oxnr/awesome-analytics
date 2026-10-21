@@ -136,6 +136,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [DevDome Analytics](https://devdome.com/) - Cookieless analytics for WordPress that separates human visitors from bots and AI crawlers. Free plan. ([Plugin Source Code](https://github.com/DevDomeFamily/devdome-analytics)) `GPL-2.0` `SaaS`
 * [Statable](https://statable.com/) - Privacy-first, cookieless web analytics hosted in the EU. Import your Google Analytics 4 history and keep a unified timeline. `©` `SaaS` `EU`
 * [Facet](https://github.com/writerslogic/facet) - Cookieless, privacy-first web analytics & experimentation that runs entirely on the Cloudflare edge (Workers + D1). No cookies, no cross-session identity, raw IP is never stored; GPC/DNT respecting and self-hosted with a one-command deploy. `AGPL-3.0` `Cloudflare Workers`
+* [Ucoder Insight](https://insights.ucoder.in) - Privacy-first, cookie-free web analytics SDK for developers. 7.4kb gzipped, zero dependencies, offline support via IndexDB. ([Source Code](https://github.com/soumydip/ucoder_insight_core)) `MIT` `JavaScript`
 
 ## Heatmap analytics
 
