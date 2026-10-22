@@ -258,6 +258,7 @@ Often there is no clear differentiation between social media management and anal
 * [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 * [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 * [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
+* [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) - Trusted-host experiment runner for AI coding agents: replay historical tasks, supplied prompts and workflows as independent attempts in fresh repositories, compare models, harnesses and configurations, and evaluate retained outputs with different checks or judges later. ([Source Code](https://github.com/yylo-dev/yylo-benchmark)) `MIT`
 
 ## Analytics dashboards
 **[`^        back to top        ^`](#)**
