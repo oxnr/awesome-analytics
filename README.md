@@ -113,6 +113,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 **[`^        back to top        ^`](#)**
 * [AuditorIA](https://landing-five-dusky-44.vercel.app) - Free automated SEO audit for local businesses. Detects HTTPS, meta tags, Schema markup, viewport, and phone visibility in 30 seconds. No registration required. `©` `SaaS`
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+* [gsc-hub](https://github.com/izzipizzy/gsc-hub) - Local self-hosted multi-account hub for Google Search Console: all sites from several Google accounts in one table, aggregated queries and pages, per-site SEO analytics. ([Source Code](https://github.com/izzipizzy/gsc-hub)) `MIT` `Self-Hosted` `TypeScript`
 * [FeedPulse](https://feed-pulse.com) - Free SEO checkers: domain authority, domain rating, SERP position, Google index status, page speed, plus a schema generator. Also serves embeddable traffic and visitor-country widgets. No signup, no paid tier. `©` `SaaS`
 * [Vaneform](https://vaneform.com/) - Free website traffic lookup: estimated monthly visits, traffic sources, top countries, search keywords and similar sites for any domain, no signup required. `©` `SaaS`
 
