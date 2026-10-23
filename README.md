@@ -258,6 +258,7 @@ Often there is no clear differentiation between social media management and anal
 * [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 * [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 * [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
+* [BurnRate](https://getburnrate.io) - AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex. ([Source Code](https://github.com/burnrate-dev/burnrate)) `MIT` `Go`
 
 ## Analytics dashboards
 **[`^        back to top        ^`](#)**
