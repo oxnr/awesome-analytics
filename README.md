@@ -162,6 +162,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
 * [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `Self-Hosted` `Go/Docker`
 * [twelvebit](https://twelvebit.app/) - Privacy-friendly web analytics with revenue attribution: see which channels bring paying customers, with a live globe, funnels, journeys and an MCP server for AI agents. ([Demo](https://twelvebit.app/demo)) `©` `SaaS`
+* [Dozokit Analytics](https://dozokit.com/analytics) - Cookie-free web analytics in one Cloudflare Worker and a D1 database, deployed into your own account with a button. No IP stored; goals, utm tags and a separate channel for visits from AI assistants. ([Source Code](https://github.com/dozokit/analytics)) `AGPL-3.0` `Cloudflare Workers` `Self-Hosted`
 
 ## Heatmap analytics
 **[`^        back to top        ^`](#)**
