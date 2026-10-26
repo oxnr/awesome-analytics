@@ -121,6 +121,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [GeoBuddy](https://geobuddy.co/) - AI search analytics: tracks whether ChatGPT, Claude, Gemini and Perplexity mention your brand, with rank, share of voice and competitor tracking; free check without signup.
 * [LLM Pulse](https://llmpulse.ai/) - AI search analytics for tracking brand mentions, citations, sentiment, and competitor share of voice across ChatGPT, Perplexity, Gemini, Google AI Overviews, and Google AI Mode. `©` `SaaS`
 * [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code](https://github.com/nowork-studio/NotFair)) `MIT`
+* [MessGEO](https://messgeo.com/) - AI search analytics that tracks how brands appear in ChatGPT, Gemini, Copilot, Perplexity and Google AI Overviews, with daily prompt tracking, share of voice and competitor comparison. `©` `SaaS`
 
 ## Privacy focused analytics
 **[`^        back to top        ^`](#)**
