@@ -172,6 +172,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Hoot Lens](https://hootlens.com/) - session replay, click heatmaps by device class and broken-click detection, readable by AI coding agents over MCP. `©` `SaaS`
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool. `©` `SaaS`
 * [Lupa](https://getlupa.ru/) - Self-hosted click heatmaps rendered directly on your page (no iframe), top clicked elements and scroll depth, plus session replay. ([Demo](https://demo.getlupa.ru/), [Source Code](https://github.com/cutover-team/lupa)) `AGPL-3.0` `Go` `Self-Hosted`
+* [Betterloop](https://betterloopai.com/) - one script tag finds rage clicks, dead buttons, JS errors and slow pages, then returns one ranked list of fixes across UX, performance, security and SEO, readable by AI coding agents over MCP. `©` `SaaS`
 
 ## Analytics layers
 **[`^        back to top        ^`](#)**
