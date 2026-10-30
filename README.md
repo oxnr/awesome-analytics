@@ -219,6 +219,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Asking Point](http://www.askingpoint.com/mobile-app-rating-widget) - track your mobile app user ratings. `©` `SaaS`
 * [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform. `©` `SaaS`
 * [AdMapix](https://www.admapix.com/) - AI ad intelligence and app market research platform for searching competitor creatives and tracking app rankings, downloads, and revenue across markets. `©` `SaaS`
+* [AsoBeast](https://asobeast.com) - Open-source ASO tool and keyword rank tracker for the App Store and Google Play: daily rankings, competitors, reviews and an MCP server. ([Source Code](https://github.com/AsoBeast/asobeast)) `AGPL-3.0` `TypeScript` `Self-Hosted` `SaaS`
 
 ## Attribution tracking
 **[`^        back to top        ^`](#)**
