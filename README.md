@@ -62,6 +62,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Kirro](https://kirro.io/) - A/B testing tool with visual editor and GA4 conversion tracking. 9KB script. `©` `SaaS`
 * [ExperimentFlow](https://experimentflow.com) - A/B testing and AI personalisation platform. Features neural bandits, lightweight SDK, privacy-first (no cookies, no PII). Google Optimize alternative. `©` `SaaS`
 * [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
+* [SensorFlow](https://sensorflow.site/) - Self-hosted event analytics pipeline with SDK-compatible ingestion, ClickHouse storage, and Apache Superset dashboards. ([Source Code](https://github.com/data-analyze-bi/sensorFlow)) `Apache-2.0` `Go`
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io) - session replay user analytics. `©` `SaaS`
 * [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics. `©` `SaaS`
