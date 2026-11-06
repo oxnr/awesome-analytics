@@ -175,6 +175,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Hoot Lens](https://hootlens.com/) - session replay, click heatmaps by device class and broken-click detection, readable by AI coding agents over MCP. `©` `SaaS`
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool. `©` `SaaS`
 * [Lupa](https://getlupa.ru/) - Self-hosted click heatmaps rendered directly on your page (no iframe), top clicked elements and scroll depth, plus session replay. ([Demo](https://demo.getlupa.ru/), [Source Code](https://github.com/cutover-team/lupa)) `AGPL-3.0` `Go` `Self-Hosted`
+* [DASHUND](https://dashund.link/?via=github) - Behavioral analytics for Figma prototypes: real paths (Sankey), click heatmaps, sessions and A/B tests before any code, with no tasks for testers. No IP stored, EU-hosted. Free plan. `©` `SaaS` `EU`
 
 ## Analytics layers
 **[`^        back to top        ^`](#)**
