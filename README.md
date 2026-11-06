@@ -135,6 +135,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Logly](https://logly.uk/) - Cookieless web analytics with a sub-1KB tracker. Bots are counted separately and labelled by type — search engines, AI crawlers, SEO tools, monitors — instead of being filtered out silently. ([Demo](https://app.logly.uk/demo)) `©` `SaaS`
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics `©` `SaaS`
 * [Metrical](https://metrical.xyz/) - A privacy-first web analytics tool for everyone. `©` `SaaS`
+* [Moxel](https://www.getmoxel.com/) - Cookieless web analytics for small sites and stores. Shows which form field or checkout step loses visitors, and what to change. `©` `SaaS`
 * [Stomatopod](https://stoma.top) - Privacy-friendly, cookieless self-hosted web analytics. Single binary, embedded storage, no external DB. ([Source Code](https://github.com/kkir/stomatopod)) `MIT` `Rust/Docker`
 * [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
 * [Respectlytics](https://respectlytics.com) - Privacy-first, session-based mobile app analytics with strict 5-field storage and no persistent user tracking. ([Source Code](https://github.com/respectlytics/respectlytics)) `AGPL-3.0` `Python/Docker`
