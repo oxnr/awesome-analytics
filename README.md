@@ -166,6 +166,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `Self-Hosted` `Go/Docker`
 * [twelvebit](https://twelvebit.app/) - Privacy-friendly web analytics with revenue attribution: see which channels bring paying customers, with a live globe, funnels, journeys and an MCP server for AI agents. ([Demo](https://twelvebit.app/demo)) `©` `SaaS`
 * [Skald](https://skaldanalytics.com/) - Web analytics built from your server's access log; separates people from AI assistants, crawlers and scanners. No cookies or tracking script. ([Source Code](https://github.com/spcaeo/skald)) `©` `Elastic-2.0` `Self-Hosted` `Python`
+* [Owlytics](https://kyrylo.org/owlytics) - Small, cookieless web analytics with one Rust executable and one SQLite database. No stored raw IP addresses. ([Source Code](https://github.com/kyrylo/owlytics)) `MIT` `Self-Hosted` `Rust`
 
 ## Heatmap analytics
 **[`^        back to top        ^`](#)**
