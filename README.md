@@ -186,6 +186,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code. `©` `SaaS`
 * [Iteratively](https://iterative.ly/) - capture clean product analytics consistently across teams & platforms. `©` `SaaS`
 * [Analytics npm package](https://getanalytics.io/) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users. Works in browsers & node.js. `©` `SaaS`
+* [AnalyticsProof](https://analyticsproof.com/) - Automated tracking QA: replays recorded website journeys and alerts when a step's dataLayer push or GA4 hit changes, and checks which tools send data before cookie consent or after rejection. Free plan. `©` `SaaS` `EU`
 
 ## Mobile analytics
 **[`^        back to top        ^`](#)**
