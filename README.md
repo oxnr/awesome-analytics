@@ -264,6 +264,7 @@ Often there is no clear differentiation between social media management and anal
 * [TKMetrics](https://tkmetrics.com/) - TikTok creator reports (average views, engagement rate, posting times) and public hashtag trends. `©` `SaaS`
 * [twtData](https://twtdata.com/) - X (Twitter) follower, following and tweet exports to CSV, plus an X trends archive by country. `©` `SaaS`
 * [LurkAPI](https://lurkapi.com) - Social media data API: public profiles, follower counts, posts and comments from TikTok, Instagram, YouTube, X, Reddit and 11 more platforms as JSON. `©` `SaaS`
+* [igtrackr Follower Tracker](https://igtrackr.com/tools/follower-tracker) - Daily follower-count history, growth charts and alerts for any public Instagram account; no Instagram login needed. `Free` `SaaS`
 
 ## Developer analytics
 **[`^        back to top        ^`](#)**
