@@ -247,6 +247,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Cascads UTM Builder](https://cascads.com/tools/utm-builder/) - free campaign URL builder for GA4 that lowercases values and builds one tagged link per channel, with nothing leaving the browser. `©` `SaaS`
 * [Appy](https://appy.to/) - Smart links and mobile SDKs for deep linking, install attribution, and in-app event and revenue tracking. SDK features require an Enterprise plan. `©` `SaaS`
 * [Airbridge](https://www.airbridge.io/en?utm_source=github&utm_medium=awesome_list&utm_campaign=get_found_w46&utm_content=awesome_analytics) - Mobile attribution SDK for subscription apps: ties Meta, Google, Apple Ads and TikTok spend to trials and revenue. Paid, 30-day free trial. `©` `SaaS`
+* [Field Note Tools UTM Builder](https://fieldnote-tools.site/en/web/utm-builder/) - free GA4 campaign URL builder that checks required fields, flags inconsistent values such as capital letters and spaces, and replaces any existing UTM tags while keeping other query parameters. No sign-up, runs in the browser. `©` `SaaS`
 
 
 ## Social media analytics
