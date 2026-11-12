@@ -103,6 +103,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
 
 * [ShieldLabs](https://shieldlabs.ai) - Traffic quality analytics with bot detection, visitor identification and risk signals by traffic source. ([Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker)) `©` `SaaS`
+* [TrueStat](https://truestat.io) - Web analytics with revenue attribution and AI crawler logs. `©` `SaaS`
 
 ## Endpoints
 **[`^        back to top        ^`](#)**
