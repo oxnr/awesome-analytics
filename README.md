@@ -240,6 +240,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
 * [Cascads UTM Builder](https://cascads.com/tools/utm-builder/) - free campaign URL builder for GA4 that lowercases values and builds one tagged link per channel, with nothing leaving the browser. `©` `SaaS`
 * [Appy](https://appy.to/) - Smart links and mobile SDKs for deep linking, install attribution, and in-app event and revenue tracking. SDK features require an Enterprise plan. `©` `SaaS`
+* [FigureNook UTM Builder](https://figurenook.com/business/utm-builder/) - Free campaign URL builder with source, medium, campaign, term and content fields, plus presets for Pinterest and email. `©` `SaaS`
 
 
 ## Social media analytics
