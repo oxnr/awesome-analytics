@@ -84,6 +84,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Zoho Apptics](https://www.zoho.com/apptics) – Cross-platfom analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps.
 * [rrweb](https://rrweb.com) - Open-source session replay library for the browser. Records the DOM and user interactions and replays them pixel-perfect. ([Source Code](https://github.com/rrweb-io/rrweb)) `MIT` `TypeScript`
 * [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU` 
+* [Pug](https://pug.sh) - Open-source product analytics with autocapture, trends, funnels, retention, user flows, unified user profiles and an MCP server for AI assistants. ([Demo](https://demo.pug.sh), [Source Code](https://github.com/pug-sh/pug)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
 
   
 
@@ -103,6 +104,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [OpenPanel](https://openpanel.dev) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. `©` `Self-Hosted` `EU`
 
 * [ShieldLabs](https://shieldlabs.ai) - Traffic quality analytics with bot detection, visitor identification and risk signals by traffic source. ([Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker)) `©` `SaaS`
+* [Betterloop](https://betterloopai.com/) - Frontend analytics for rage clicks, dead controls, JavaScript errors and slow pages, with ranked insights accessible over MCP. Security and SEO findings use site audits or connected sources alongside the browser snippet. `©` `SaaS`
 
 ## Endpoints
 **[`^        back to top        ^`](#)**
@@ -125,6 +127,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [SenseGap](https://sensegap.com/) - Analytics for the AI crawlers and agents that visit a website (GPTBot, ClaudeBot, PerplexityBot, ChatGPT-User and others): checks bots against their published IP ranges or forward-confirmed reverse DNS where available and marks the rest unverified, shows which pages AI reads and how many visitors AI sends. The bot list and verification rules are open source. ([Demo](https://sensegap.com/demo), [Source Code](https://github.com/tudortotolici/sensegap)) `©` `SaaS`
 * [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code](https://github.com/nowork-studio/NotFair)) `MIT`
 * [MessGEO](https://messgeo.com/) - AI search analytics that tracks how brands appear in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with daily prompt tracking, share of voice and competitor comparison. `©` `SaaS`
+* [looot-seo](https://github.com/loootai/looot-seo) - Self-hosted SEO workspace: rank tracking, keyword research, SERP snapshots, competitors and backlinks, with the price of each refresh shown before it runs. Data comes from the paid looot API; a demo mode runs without an account. ([Source Code](https://github.com/loootai/looot-seo)) `MIT` `Self-Hosted` `TypeScript`
 
 ## Privacy focused analytics
 **[`^        back to top        ^`](#)**
@@ -166,6 +169,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [d8a.tech](https://d8a.tech/) - Open-source, GA4/Matomo-compatible analytics. Warehouse-native storage in BigQuery, ClickHouse, or files (CSV/Parquet). Available as EU-hosted cloud or self-hosted. `MIT` `SaaS` `Self-Hosted` `Go/Docker`
 * [twelvebit](https://twelvebit.app/) - Privacy-friendly web analytics with revenue attribution: see which channels bring paying customers, with a live globe, funnels, journeys and an MCP server for AI agents. ([Demo](https://twelvebit.app/demo)) `©` `SaaS`
 * [Skald](https://skaldanalytics.com/) - Web analytics built from your server's access log; separates people from AI assistants, crawlers and scanners. No cookies or tracking script. ([Source Code](https://github.com/spcaeo/skald)) `©` `Elastic-2.0` `Self-Hosted` `Python`
+* [invisit](https://invisit.dev/) - Cookieless web analytics that shows where visits come from (ChatGPT and other AI assistants included), which AI crawlers read your pages, plus funnels, heatmaps and an MCP server. Free plan. ([Demo](https://app.invisit.dev/demo)) `©` `SaaS`
 * [Nvivio](https://nvivio.com/) - Cookieless web analytics hosted in the EU, in all 24 EU languages. No stored IP addresses, a sub-1 kB script, bots and AI crawlers shown apart, a public API and an MCP server for AI assistants. ([Demo](https://nvivio.com/app/acme.example)) `©` `SaaS`
 
 ## Heatmap analytics
@@ -187,6 +191,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code. `©` `SaaS`
 * [Iteratively](https://iterative.ly/) - capture clean product analytics consistently across teams & platforms. `©` `SaaS`
 * [Analytics npm package](https://getanalytics.io/) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users. Works in browsers & node.js. `©` `SaaS`
+* [AnalyticsProof](https://analyticsproof.com/) - Automated tracking QA: replays recorded website journeys and alerts when a step's dataLayer push or GA4 hit changes, and checks which tools send data before cookie consent or after rejection. Free plan. `©` `SaaS` `EU`
 
 ## Mobile analytics
 **[`^        back to top        ^`](#)**
@@ -235,12 +240,14 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
 * [ClickTrail](https://www.npmjs.com/package/@vizuh/clicktrail) - Deterministic first-party attribution engine for UTMs, ad click IDs, referrers, and first/last touch. ([Source Code](https://github.com/vizuh/clicktrail-js)) `MIT` `TypeScript`
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
+* [AttriKit](https://attrikit.io/) - Web-to-app attribution for iOS and Android, with verified and matched attribution, aggregate estimates, and organic/unknown results; campaign recommendations account for costs. `©` `SaaS`
 * [WhichPost](https://whichpost.app/) - See which creator posts brought paying customers, from a read-only Stripe or RevenueCat connection, with a range on every result. `©` `SaaS`
 * [Virling](https://github.com/virling/virling) - open-source revenue attribution that ties each visit to the Stripe, Dodo Payments or Polar payment that followed. `AGPL-3.0` `Self-Hosted`
 * [OneLence](https://onelence.com/) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates. `©` `SaaS`
 * [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
 * [Cascads UTM Builder](https://cascads.com/tools/utm-builder/) - free campaign URL builder for GA4 that lowercases values and builds one tagged link per channel, with nothing leaving the browser. `©` `SaaS`
 * [Appy](https://appy.to/) - Smart links and mobile SDKs for deep linking, install attribution, and in-app event and revenue tracking. SDK features require an Enterprise plan. `©` `SaaS`
+* [Airbridge](https://www.airbridge.io/en?utm_source=github&utm_medium=awesome_list&utm_campaign=get_found_w46&utm_content=awesome_analytics) - Mobile attribution SDK for subscription apps: ties Meta, Google, Apple Ads and TikTok spend to trials and revenue. Paid, 30-day free trial. `©` `SaaS`
 
 
 ## Social media analytics
@@ -261,6 +268,7 @@ Often there is no clear differentiation between social media management and anal
 * [AI TikTok Analyzer Pro](https://tiktok.poviai.com/) - TikTok content research: rank a creator's public videos by engagement, export comments, AI transcripts and sentiment analysis. `©` `SaaS`
 * [Pulse](https://pulse.walls.sh) - Social post metrics REST API — give it a public post URL and get back views, likes, comments, shares in JSON. Covers YouTube, X/Twitter, TikTok, Bluesky, Mastodon, Instagram. No API key to start. `Free` `SaaS`
 * [IGDataHub](https://igdatahub.com/) - Instagram profile lookup (followers, following, posts) and dated follower readings for the accounts it tracks. `©` `SaaS`
+* [Engagement Rate Calculator](https://engagementrate.app/) - Free Chrome extension for checking engagement and standout posts on public Instagram profiles while logged in. `Free`
 * [SnapDataHub](https://snapdatahub.com/) - Subscriber counts, Spotlight views and growth for public Snapchat creator profiles; earnings figures are estimates. `©` `SaaS`
 * [TKMetrics](https://tkmetrics.com/) - TikTok creator reports (average views, engagement rate, posting times) and public hashtag trends. `©` `SaaS`
 * [twtData](https://twtdata.com/) - X (Twitter) follower, following and tweet exports to CSV, plus an X trends archive by country. `©` `SaaS`
@@ -317,3 +325,4 @@ Often there is no clear differentiation between social media management and anal
 
 # Resources and Comparisons
 - [Analytics Compare](https://www.analytics-compare.com/tools/compare/) - An independent, interactive database comparing 30+ analytics tools based on features, hidden costs, and scalability risks.
+- [Ditchly: Google Analytics alternatives](https://ditchly.co/alternatives/google-analytics) - Free and open-source Google Analytics alternatives, scored on one checklist from public docs, with switch guides to Plausible, Matomo, and Umami.
