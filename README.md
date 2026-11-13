@@ -242,6 +242,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [mbuzz](https://mbuzz.co/) - server-side multi-touch attribution platform with open-source SDKs for Ruby, Node, Python, and PHP, plus a SQL-like attribution DSL. `©` `SaaS`
 * [Cascads UTM Builder](https://cascads.com/tools/utm-builder/) - free campaign URL builder for GA4 that lowercases values and builds one tagged link per channel, with nothing leaving the browser. `©` `SaaS`
 * [Appy](https://appy.to/) - Smart links and mobile SDKs for deep linking, install attribution, and in-app event and revenue tracking. SDK features require an Enterprise plan. `©` `SaaS`
+* [Airbridge](https://www.airbridge.io/en?utm_source=github&utm_medium=awesome_list&utm_campaign=get_found_w46&utm_content=awesome_analytics) - Mobile attribution SDK for subscription apps: ties Meta, Google, Apple Ads and TikTok spend to trials and revenue. Paid, 30-day free trial. `©` `SaaS`
 
 
 ## Social media analytics
