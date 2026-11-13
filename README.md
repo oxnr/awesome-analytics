@@ -170,6 +170,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [twelvebit](https://twelvebit.app/) - Privacy-friendly web analytics with revenue attribution: see which channels bring paying customers, with a live globe, funnels, journeys and an MCP server for AI agents. ([Demo](https://twelvebit.app/demo)) `©` `SaaS`
 * [Skald](https://skaldanalytics.com/) - Web analytics built from your server's access log; separates people from AI assistants, crawlers and scanners. No cookies or tracking script. ([Source Code](https://github.com/spcaeo/skald)) `©` `Elastic-2.0` `Self-Hosted` `Python`
 * [invisit](https://invisit.dev/) - Cookieless web analytics that shows where visits come from (ChatGPT and other AI assistants included), which AI crawlers read your pages, plus funnels, heatmaps and an MCP server. Free plan. ([Demo](https://app.invisit.dev/demo)) `©` `SaaS`
+* [Nvivio](https://nvivio.com/) - Cookieless web analytics hosted in the EU, in all 24 EU languages. No stored IP addresses, a sub-1 kB script, bots and AI crawlers shown apart, a public API and an MCP server for AI assistants. ([Demo](https://nvivio.com/app/acme.example)) `©` `SaaS`
 
 ## Heatmap analytics
 **[`^        back to top        ^`](#)**
