@@ -271,6 +271,7 @@ Often there is no clear differentiation between social media management and anal
 ## Developer analytics
 **[`^        back to top        ^`](#)**
 
+* [Aidealy](https://aidealy.ai) - Measures the productivity of engineers and AI agents from the code they ship: a rank per engineer, how much of the code AI wrote, and AI token cost per pull request. `©` `SaaS`
 * [BitDive](https://bitdive.io/) - APM for Java/Kotlin with distributed tracing, runtime profiling, service maps, and performance metrics. `©` `SaaS`
 * [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 * [Dev Ledger](https://devledger.site/) - Open-source GitHub analytics for developers — longitudinal development history across repositories: source growth, churn, activity, languages, and releases. ([Source Code](https://github.com/Aliferous3/dev-ledger)) `AGPL-3.0` `SaaS`
