@@ -175,6 +175,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Skald](https://skaldanalytics.com/) - Web analytics built from your server's access log; separates people from AI assistants, crawlers and scanners. No cookies or tracking script. ([Source Code](https://github.com/spcaeo/skald)) `©` `Elastic-2.0` `Self-Hosted` `Python`
 * [invisit](https://invisit.dev/) - Cookieless web analytics that shows where visits come from (ChatGPT and other AI assistants included), which AI crawlers read your pages, plus funnels, heatmaps and an MCP server. Free plan. ([Demo](https://app.invisit.dev/demo)) `©` `SaaS`
 * [Highseat](https://highseat.com/) - Cookieless web analytics with revenue by source: connects to your payment provider and shows which traffic sources bring paying customers. Public API and MCP server. `©` `SaaS`
+* [Feasible](https://feasible.lol/) - Cookieless web analytics with goals, funnels, revenue by source and an MCP server. Self-hosts as one Go binary with a SQLite file per account, or hosted at $99 a year for unlimited sites. ([Demo](https://app.feasible.lol/public/stopoverpayingforanalytics.com), [Source Code](https://github.com/Feasible-Analytics/app.feasible.lol)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
 
 ## Heatmap analytics
 **[`^        back to top        ^`](#)**
