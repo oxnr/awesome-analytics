@@ -280,6 +280,7 @@ Often there is no clear differentiation between social media management and anal
 * [twtData](https://twtdata.com/) - X (Twitter) follower, following and tweet exports to CSV, plus an X trends archive by country. `©` `SaaS`
 * [LurkAPI](https://lurkapi.com) - Social media data API: public profiles, follower counts, posts and comments from TikTok, Instagram, YouTube, X, Reddit and 11 more platforms as JSON. `©` `SaaS`
 * [Social Fetch](https://www.socialfetch.dev) - Social media data API: public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn as JSON. `©` `SaaS`
+* [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-transcript-api) - YouTube data API: transcripts in any caption language, channel uploads, Shorts, live streams and community posts, playlists, search and like/dislike estimates as JSON. `©` `SaaS`
 
 ## Developer analytics
 **[`^        back to top        ^`](#)**
