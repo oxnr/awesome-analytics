@@ -321,6 +321,7 @@ Often there is no clear differentiation between social media management and anal
 * [Dekart](https://dekart.xyz) - Open-source geospatial analytics. Turn SQL on BigQuery/Snowflake/PostGIS into shareable interactive maps. ([Source Code](https://github.com/dekart-xyz/dekart)) `AGPL-3.0` `Go` `Self-Hosted` `SaaS`
 * [Better Analyst](https://betteranalyst.com/) - AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports. `©` `SaaS`
 * [Lookout](https://lookoutstats.com/) - Vercel Web Analytics and Speed Insights for all your Vercel projects on one board, with alerts, read-only share links, a REST API and an MCP server. Free for up to 100 projects. `©` `SaaS`
+* [Web-to-Web BI Board](https://www.roimobi.com/open-source/cohort-roas-ltv-dashboard) - Cohort ROAS and LTV dashboard for subscription web funnels: payback from day 0 to day 360, sBG forecasts with 80 % intervals, real-time spend and a funnel map. Static, reads one JSON file, no backend. ([Demo](https://ua5er.github.io/web2web-bi-board/), [Source Code](https://github.com/ua5er/web2web-bi-board)) `MIT` `JavaScript`
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
