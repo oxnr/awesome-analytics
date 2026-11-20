@@ -134,6 +134,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 
 * [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users `©` `SaaS`
 * [Fathom Lite](https://github.com/usefathom/fathom) - Fathom Lite, a lightweight version of Fathom Analytics `MIT` `Self-Hosted`
+* [Owlytics](https://kyrylo.org/owlytics) - Small, cookieless web analytics with one Rust executable and one SQLite database. No stored raw IP addresses. ([Source Code](https://github.com/kyrylo/owlytics)) `MIT` `Self-Hosted` `Rust`
 * [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers `©` `SaaS`
 * [Logly](https://logly.uk/) - Cookieless web analytics with a sub-1KB tracker. Bots are counted separately and labelled by type — search engines, AI crawlers, SEO tools, monitors — instead of being filtered out silently. ([Demo](https://app.logly.uk/demo)) `©` `SaaS`
