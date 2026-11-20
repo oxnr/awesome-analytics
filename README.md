@@ -130,6 +130,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. ([Source Code](https://github.com/nowork-studio/NotFair)) `MIT`
 * [MessGEO](https://messgeo.com/) - AI search analytics that tracks how brands appear in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with daily prompt tracking, share of voice and competitor comparison. `©` `SaaS`
 * [looot-seo](https://github.com/loootai/looot-seo) - Self-hosted SEO workspace: rank tracking, keyword research, SERP snapshots, competitors and backlinks, with the price of each refresh shown before it runs. Data comes from the paid looot API; a demo mode runs without an account. ([Source Code](https://github.com/loootai/looot-seo)) `MIT` `Self-Hosted` `TypeScript`
+* [Firecrawl Alexandria](https://alexandria.firecrawl.dev/categories/web-analytics-marketing) - Website traffic and engagement (Similarweb) and Wayback Machine snapshots as tools AI agents can call through one Firecrawl API key, CLI or MCP server. `©` `SaaS`
 
 ## Privacy focused analytics
 **[`^        back to top        ^`](#)**
