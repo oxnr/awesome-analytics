@@ -38,6 +38,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking. `©` `SaaS`
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities. `©` `SaaS`
 * [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - web data into insights that everyone can act on. `©` `SaaS`
+* [Eventkiwi](https://eventkiwi.com/) - Event aggregation and reporting platform: send events from any service through one HTTP API and get scheduled reports, with an AI summary built on exact counts, by email or Telegram. `©` `SaaS`
 * [Google Analytics](https://www.google.com/analytics/) - de facto standard for analytics in the web analytics space. `©` `SaaS`
 * [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse. `©` `SaaS`
 * [Clicktale](https://www.clicktale.com) - record and watch exactly how a visitor used your website. `©` `SaaS`
