@@ -280,6 +280,7 @@ Often there is no clear differentiation between social media management and anal
 * [twtData](https://twtdata.com/) - X (Twitter) follower, following and tweet exports to CSV, plus an X trends archive by country. `©` `SaaS`
 * [LurkAPI](https://lurkapi.com) - Social media data API: public profiles, follower counts, posts and comments from TikTok, Instagram, YouTube, X, Reddit and 11 more platforms as JSON. `©` `SaaS`
 * [Social Fetch](https://www.socialfetch.dev) - Social media data API: public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn as JSON. `©` `SaaS`
+* [reachburn](https://github.com/arsentev-ai/reachburn) - Estimates the weekly cost of AI-made short-form video against a human studio and against paid reach (CPM), with ranges and a sourced default for every value. `Free` `Self-Hosted`
 
 ## Developer analytics
 **[`^        back to top        ^`](#)**
