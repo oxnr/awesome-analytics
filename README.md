@@ -131,6 +131,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [MessGEO](https://messgeo.com/) - AI search analytics that tracks how brands appear in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with daily prompt tracking, share of voice and competitor comparison. `©` `SaaS`
 * [looot-seo](https://github.com/loootai/looot-seo) - Self-hosted SEO workspace: rank tracking, keyword research, SERP snapshots, competitors and backlinks, with the price of each refresh shown before it runs. Data comes from the paid looot API; a demo mode runs without an account. ([Source Code](https://github.com/loootai/looot-seo)) `MIT` `Self-Hosted` `TypeScript`
 * [Firecrawl Alexandria](https://alexandria.firecrawl.dev/categories/web-analytics-marketing) - Website traffic and engagement (Similarweb) and Wayback Machine snapshots as tools AI agents can call through one Firecrawl API key, CLI or MCP server. `©` `SaaS`
+* [CiteReady](https://citeready-checker.appwrite.network) - AI search visibility and citation readiness scanner auditing 10 AI crawlers (GPTBot, ClaudeBot, PerplexityBot), llms.txt compliance, and Schema.org JSON-LD entity graphs; free scan without signup, with open-source CLI. ([Source Code](https://github.com/zColdWater/citeready-cli)) `MIT` `SaaS`
 
 ## Privacy focused analytics
 **[`^        back to top        ^`](#)**
