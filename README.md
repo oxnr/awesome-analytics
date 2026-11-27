@@ -131,6 +131,7 @@ Use your browser's search for `Self-Hosted` or `SaaS` to find tagged hosting opt
 * [MessGEO](https://messgeo.com/) - AI search analytics that tracks how brands appear in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with daily prompt tracking, share of voice and competitor comparison. `©` `SaaS`
 * [looot-seo](https://github.com/loootai/looot-seo) - Self-hosted SEO workspace: rank tracking, keyword research, SERP snapshots, competitors and backlinks, with the price of each refresh shown before it runs. Data comes from the paid looot API; a demo mode runs without an account. ([Source Code](https://github.com/loootai/looot-seo)) `MIT` `Self-Hosted` `TypeScript`
 * [Firecrawl Alexandria](https://alexandria.firecrawl.dev/categories/web-analytics-marketing) - Website traffic and engagement (Similarweb) and Wayback Machine snapshots as tools AI agents can call through one Firecrawl API key, CLI or MCP server. `©` `SaaS`
+* [Superpixel](https://superpixel.run) - Free Chrome extension that shows the marketing tags (Meta Pixel, GA4, Google Tag Manager and 20+ more) and account IDs on any website, plus the ads it runs in the Google, Meta, TikTok, LinkedIn, Microsoft and Snapchat ad libraries. Runs in the browser, no account needed. ([Source Code](https://github.com/PiotrZapolski/superpixel)) `MIT` `JavaScript`
 
 ## Privacy focused analytics
 **[`^        back to top        ^`](#)**
