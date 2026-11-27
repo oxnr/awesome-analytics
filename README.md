@@ -254,6 +254,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Appy](https://appy.to/) - Smart links and mobile SDKs for deep linking, install attribution, and in-app event and revenue tracking. SDK features require an Enterprise plan. `©` `SaaS`
 * [Airbridge](https://www.airbridge.io/en?utm_source=github&utm_medium=awesome_list&utm_campaign=get_found_w46&utm_content=awesome_analytics) - Mobile attribution SDK for subscription apps: ties Meta, Google, Apple Ads and TikTok spend to trials and revenue. Paid, 30-day free trial. `©` `SaaS`
 * [Improvado](https://improvado.io/) - Marketing analytics platform that combines ad, web analytics and CRM data for cross-channel reporting and attribution, with an MCP server for AI agents. `©` `SaaS`
+* [Get MCP Ads](https://www.getmcpads.com) - Hosted MCP server that connects Claude, ChatGPT and other AI assistants to 16 ad and analytics sources, including Meta, Google Ads, TikTok, GA4 and Search Console; every write is previewed and confirmed first, and the Free plan is read-only. `©` `SaaS`
 
 
 ## Social media analytics
